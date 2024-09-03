@@ -8,6 +8,8 @@
   <a href="final-project-part-two.md" style="text-decoration: none; color: #007acc;">Final Project II</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="final-project-part-three.md" style="text-decoration: none; color: #007acc;">Final Project III</a>
 </div>
+<br>
+<br>
 
 <img src="image%20for%20portfolio.png" alt="Data Science Word Cloud" style="width:100%; height:50%;">
 
