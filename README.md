@@ -1,12 +1,12 @@
 # Aishwarya's Portfolio
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px; padding: 10px; border-bottom: 2px solid #ddd;">
-  <a href="https://cmustudent.github.io/tswd-portfolio-templates/" style="text-decoration: none; color: #007acc; font-weight: bold; padding: 10px; border-right: 1px solid #ddd;">Home Page</a>
-  <a href="visualizing-government-debt.md" style="text-decoration: none; color: #007acc; font-weight: bold; padding: 10px; border-right: 1px solid #ddd;">Visualizing Government Debt</a>
-  <a href="critique-by-design.md" style="text-decoration: none; color: #007acc; font-weight: bold; padding: 10px; border-right: 1px solid #ddd;">Critique by Design</a>
-  <a href="final-project-part-one.md" style="text-decoration: none; color: #007acc; font-weight: bold; padding: 10px; border-right: 1px solid #ddd;">Final Project I</a>
-  <a href="final-project-part-two.md" style="text-decoration: none; color: #007acc; font-weight: bold; padding: 10px; border-right: 1px solid #ddd;">Final Project II</a>
-  <a href="final-project-part-three.md" style="text-decoration: none; color: #007acc; font-weight: bold; padding: 10px;">Final Project III</a>
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-bottom: 20px; padding: 15px 0; border-bottom: 2px solid #ddd; background-color: #f9f9f9;">
+  <a href="https://cmustudent.github.io/tswd-portfolio-templates/" style="text-decoration: none; color: #007acc; font-weight: bold; padding: 10px 20px; border-radius: 5px; transition: background-color 0.3s;">Home Page</a>
+  <a href="visualizing-government-debt.md" style="text-decoration: none; color: #007acc; font-weight: bold; padding: 10px 20px; border-radius: 5px; transition: background-color 0.3s;">Visualizing Government Debt</a>
+  <a href="critique-by-design.md" style="text-decoration: none; color: #007acc; font-weight: bold; padding: 10px 20px; border-radius: 5px; transition: background-color 0.3s;">Critique by Design</a>
+  <a href="final-project-part-one.md" style="text-decoration: none; color: #007acc; font-weight: bold; padding: 10px 20px; border-radius: 5px; transition: background-color 0.3s;">Final Project I</a>
+  <a href="final-project-part-two.md" style="text-decoration: none; color: #007acc; font-weight: bold; padding: 10px 20px; border-radius: 5px; transition: background-color 0.3s;">Final Project II</a>
+  <a href="final-project-part-three.md" style="text-decoration: none; color: #007acc; font-weight: bold; padding: 10px 20px; border-radius: 5px; transition: background-color 0.3s;">Final Project III</a>
 </div>
 
 <img src="image%20for%20portfolio.png" alt="Data Science Word Cloud" style="width:100%; height:50%;">
