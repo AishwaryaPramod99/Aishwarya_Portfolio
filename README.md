@@ -1,6 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Aishwarya - Portfolio
+<img src="image%20for%20portfolio.png" alt="Data Science Word Cloud" style="width:100%; height:50%;">
 
 # About me
 Hello! I’m Aishwarya (she/her), a passionate data science enthusiast currently pursuing a Master of Information Systems Management with a concentration in Business Intelligence and Data Analytics (MISM-BIDA) at Carnegie Mellon University. I have a strong academic background in data science, having specialized in this field during my undergraduate studies at PES University and now deepening my expertise through my graduate program.
