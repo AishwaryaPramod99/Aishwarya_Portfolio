@@ -40,7 +40,6 @@ Developed a predictive model to forecast stock prices using historical data and 
  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
     Due Date: September 24, 2024
     Description: Submit a project proposal outlining the project’s objective, data to be used, and the presentation method.
@@ -49,6 +48,6 @@ Here it might be helpful to include a high-level description of your final proje
     Due Date: October 3, 2024
     Description: Develop sketches, wireframes, and storyboards, conduct user research, and incorporate feedback.
 
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
     Due Date: October 11, 2024
     Description: Complete the final deliverable and presentation of your project. This can be a website, interactive work, or other digital format.
