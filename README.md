@@ -1,5 +1,3 @@
----
-
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
   <a href="https://cmustudent.github.io/tswd-portfolio-templates/" style="text-decoration: none; color: #000; padding: 10px 15px; border: 1px solid #ccc; border-radius: 5px;">Home Page</a>
   <a href="visualizing-government-debt.md" style="text-decoration: none; color: #000; padding: 10px 15px; border: 1px solid #ccc; border-radius: 5px;">Visualizing Government Debt</a>
@@ -8,8 +6,6 @@
   <a href="final-project-part-two.md" style="text-decoration: none; color: #000; padding: 10px 15px; border: 1px solid #ccc; border-radius: 5px;">Final Project II</a>
   <a href="final-project-part-three.md" style="text-decoration: none; color: #000; padding: 10px 15px; border: 1px solid #ccc; border-radius: 5px;">Final Project III</a>
 </div>
-
----
 
 <img src="image%20for%20portfolio.png" alt="Data Science Word Cloud" style="width:100%; height:50%;">
 
