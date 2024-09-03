@@ -1,7 +1,14 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Visualizing Government Debt](visualizing-government-debt.md) |
-[Critique by Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
-
 # Aishwarya - Portfolio
+
+---
+
+## Navigation
+
+| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Visualizing Government Debt](visualizing-government-debt.md) | [Critique by Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
+|---|---|---|---|---|---|
+
+---
+
 <img src="image%20for%20portfolio.png" alt="Data Science Word Cloud" style="width:100%; height:50%;">
 
 # About me
@@ -30,25 +37,25 @@ Developed a predictive model to forecast stock prices using historical data and 
 2. Hate Speech Detection - Conducted a project to detect hate speech on Twitter using Natural Language Processing (NLP) techniques. This project involved collecting Twitter data, preprocessing text, and applying machine learning models to classify tweets as hate speech or not. Visualizations were used to analyze the distribution of hate speech across different demographics and to illustrate the model’s performance metrics, enhancing the understanding of the findings.
 
 # Future Assignments
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Data Visualization](visualizing-government-debt.md)
     Due Date: September 10, 2024
     Description: Create a data visualization following good design practices and principles discussed in the course.
 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
     Due Date: September 2, 2024
     Description: Critique an existing data visualization using the methodologies learned in class.
  
 
 ## Final project
-[Part I](final-project-part-one)
+[Part I](final-project-part-one.md)
     Due Date: September 24, 2024
     Description: Submit a project proposal outlining the project’s objective, data to be used, and the presentation method.
 
-[Part II](final-project-part-two)
+[Part II](final-project-part-two.md)
     Due Date: October 3, 2024
     Description: Develop sketches, wireframes, and storyboards, conduct user research, and incorporate feedback.
 
-[Part III](final-project-part-three)
+[Part III](final-project-part-three.md)
     Due Date: October 11, 2024
     Description: Complete the final deliverable and presentation of your project. This can be a website, interactive work, or other digital format.
