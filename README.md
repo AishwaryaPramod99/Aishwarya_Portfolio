@@ -1,6 +1,13 @@
 ---
 
-| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Visualizing Government Debt](visualizing-government-debt.md) | [Critique by Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <a href="https://cmustudent.github.io/tswd-portfolio-templates/" style="text-decoration: none; color: #000; padding: 10px 15px; border: 1px solid #ccc; border-radius: 5px;">Home Page</a>
+  <a href="visualizing-government-debt.md" style="text-decoration: none; color: #000; padding: 10px 15px; border: 1px solid #ccc; border-radius: 5px;">Visualizing Government Debt</a>
+  <a href="critique-by-design.md" style="text-decoration: none; color: #000; padding: 10px 15px; border: 1px solid #ccc; border-radius: 5px;">Critique by Design</a>
+  <a href="final-project-part-one.md" style="text-decoration: none; color: #000; padding: 10px 15px; border: 1px solid #ccc; border-radius: 5px;">Final Project I</a>
+  <a href="final-project-part-two.md" style="text-decoration: none; color: #000; padding: 10px 15px; border: 1px solid #ccc; border-radius: 5px;">Final Project II</a>
+  <a href="final-project-part-three.md" style="text-decoration: none; color: #000; padding: 10px 15px; border: 1px solid #ccc; border-radius: 5px;">Final Project III</a>
+</div>
 
 ---
 
