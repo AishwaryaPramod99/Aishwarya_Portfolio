@@ -21,12 +21,12 @@ After completing this course, I plan to apply these skills to future projects an
 
 # Portfolio
 
-# Examples
+# Projects
 
-1. Stock Market Prediction
+1. Stock Market Prediction -
 Developed a predictive model to forecast stock prices using historical data and machine learning techniques. The project involved data cleaning, feature engineering, and implementing algorithms like ARIMA and LSTM for time series prediction.
 
-2. Hate Speech Detection Conducted a project to detect hate speech on Twitter using Natural Language Processing (NLP) techniques. This project involved collecting Twitter data, preprocessing text, and applying machine learning models to classify tweets as hate speech or not. Visualizations were used to analyze the distribution of hate speech across different demographics and to illustrate the model’s performance metrics, enhancing the understanding of the findings.
+2. Hate Speech Detection - Conducted a project to detect hate speech on Twitter using Natural Language Processing (NLP) techniques. This project involved collecting Twitter data, preprocessing text, and applying machine learning models to classify tweets as hate speech or not. Visualizations were used to analyze the distribution of hate speech across different demographics and to illustrate the model’s performance metrics, enhancing the understanding of the findings.
 
 # Future Assignments
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
