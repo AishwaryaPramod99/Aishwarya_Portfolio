@@ -1,5 +1,4 @@
-# Aishwarya's Portfolio
-title: ""
+--# Aishwarya's Portfolio
 <div style="text-align: center; margin-bottom: 20px;">
   <a href="https://cmustudent.github.io/tswd-portfolio-templates/" style="text-decoration: none; color: #007acc;">Home Page</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="visualizing-government-debt.md" style="text-decoration: none; color: #007acc;">Visualizing Government Debt</a>&nbsp;&nbsp;&nbsp;&nbsp;
