@@ -1,5 +1,13 @@
-| [Home Page](https://github.com/AishwaryaPramod99/Aishwarya_Portfolio/blob/main/README.md)
-| [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="https://cmustudent.github.io/tswd-portfolio-templates/" style="text-decoration: none; color: #007acc;">Home Page</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="visualizing-government-debt.md" style="text-decoration: none; color: #007acc;">Visualizing Government Debt</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="critique-by-design.md" style="text-decoration: none; color: #007acc;">Critique by Design</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="final-project-part-one.md" style="text-decoration: none; color: #007acc;">Final Project I</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="final-project-part-two.md" style="text-decoration: none; color: #007acc;">Final Project II</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="final-project-part-three.md" style="text-decoration: none; color: #007acc;">Final Project III</a>
+</div>
+<br>
+<br>
 
 # Visualizing Government Debt
 
