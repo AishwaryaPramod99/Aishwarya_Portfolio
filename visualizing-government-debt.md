@@ -16,6 +16,11 @@ I customized the **color palette** to emphasize countries with high debt-to-GDP 
 
 ### Embedded Tableau Heatmap Visualization:
 
-```html
-<iframe src="https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt?:showVizHome=no&:embed=true"
+<iframe src="https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/alizingGovernmentDebt?:showVizHome=no&:embed=true"
         width="1152" height="547" frameborder="0"></iframe>
+
+## Part Three: Creating a New Visualization
+
+For the final part of this assignment, I created a **line chart** in Tableau, focusing on the changes in debt-to-GDP ratios over time for a few selected countries. This chart provides a dynamic view of how the debt ratios have evolved for these countries and highlights any significant changes over time.
+
+This chart was chosen to give a better understanding of how the debt-to-GDP ratios have trended over time, showing increases and decreases in various countries. Below is the embedded line chart visualization:
