@@ -6,8 +6,7 @@
   <a href="final-project-part-two.md" style="text-decoration: none; color: #007acc;">Final Project II</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="final-project-part-three.md" style="text-decoration: none; color: #007acc;">Final Project III</a>
 </div>
-<br>
-<br>
+<br><br>
 
 # Visualizing Government Debt
 
@@ -22,38 +21,15 @@ In this section, I explored OECD's web-based visualization tool to analyze gover
 
 For the next part of the assignment, I downloaded the OECD government debt dataset and used Tableau to create an interactive visualization that displays the debt-to-GDP ratio over time for various countries. Below is the embedded Tableau visualization.
 
-<!-- Embed your Tableau visualization -->
-<script type="text/javascript">                    
-  var divElement = document.getElementById('viz1657854513007');                    
+### Tip for Embedding in GitHub
+To get the Tableau visualization to render correctly on GitHub, you'll have to do a bit of editing of the code block once you paste it into your new markdown page. To do so, hit enter/return wherever you see big blocks of spaces between the lines. Usually, you will find these after the “;” (or other logical break points). When finished, your final code block should look something like this:
+
+```html
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz0000000000000');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width = '100%'; vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
-<div class='tableauPlaceholder' id='viz1657854513007' style='position: relative'>
-    <noscript>
-        <a href='https://public.tableau.com/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt'>
-        <img alt='Dashboard' src='https://public.tableau.com/static/images/Vi/VisualizingGovernmentDebt/1_rss.png'></a>
-    </noscript>
-    <object class='tableauViz' width='1152' height='547' style='display:none;'>
-        <param name='host_url' value='https://public.tableau.com/' /> 
-        <param name='embed_code_version' value='3' />
-        <param name='site_root' value='' />
-        <param name='name' value='VisualizingGovernmentDebt' />
-        <param name='tabs' value='no' />
-        <param name='toolbar' value='yes' />
-    </object>
-</div>
-
-### Process:
-
-In Tableau, I followed these steps to create the visualization:
-1. **Loaded the OECD dataset**: After downloading the dataset, I loaded it into Tableau and formatted the time column to ensure the dates were read correctly.
-2. **Created a line chart**: I used the "Year" field for the X-axis and "Debt-to-GDP ratio" for the Y-axis, showing how debt has changed over time for various countries.
-3. **Added color and filters**: I added color to differentiate between countries and created filters that allow the user to select specific countries for comparison.
-   
-### Observations:
-- Countries like Greece and Japan have consistently high debt-to-GDP ratios, while others like Estonia show much lower values.
-- This visualization provides a clear overview of how debt has evolved over time.
