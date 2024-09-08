@@ -23,7 +23,29 @@ In this section, I explored OECD's web-based visualization tool to analyze gover
 For the next part of the assignment, I downloaded the OECD government debt dataset and used Tableau to create an interactive visualization that displays the debt-to-GDP ratio over time for various countries. Below is the embedded Tableau visualization.
 
 <!-- Embed your Tableau visualization -->
-<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt' width='1152' height='547' hide-tabs toolbar='bottom' ></tableau-viz>
+<script type="text/javascript">                    
+  var divElement = document.getElementById('viz1657854513007');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width = '100%'; vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+<div class='tableauPlaceholder' id='viz1657854513007' style='position: relative'>
+    <noscript>
+        <a href='https://public.tableau.com/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt'>
+        <img alt='Dashboard' src='https://public.tableau.com/static/images/Vi/VisualizingGovernmentDebt/1_rss.png'></a>
+    </noscript>
+    <object class='tableauViz' width='1152' height='547' style='display:none;'>
+        <param name='host_url' value='https://public.tableau.com/' /> 
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='VisualizingGovernmentDebt' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+    </object>
+</div>
 
 ### Process:
 
@@ -39,7 +61,3 @@ In Tableau, I followed these steps to create the visualization:
 ## Part Three: Create Your Own Visualization
 
 For my custom visualization, I decided to create a **heat map** to highlight how government debt levels vary between countries across different years. I felt this visualization would provide a clear, comparative view of government debt, allowing for easy identification of countries with the highest and lowest debt-to-GDP ratios.
-
-### Custom Visualization:
-<!-- Embed your custom Tableau visualization -->
-<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest
