@@ -1,40 +1,24 @@
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="https://cmustudent.github.io/tswd-portfolio-templates/" style="text-decoration: none; color: #007acc;">Home Page</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="visualizing-government-debt.md" style="text-decoration: none; color: #007acc;">Visualizing Government Debt</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="critique-by-design.md" style="text-decoration: none; color: #007acc;">Critique by Design</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="final-project-part-one.md" style="text-decoration: none; color: #007acc;">Final Project I</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="final-project-part-two.md" style="text-decoration: none; color: #007acc;">Final Project II</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="final-project-part-three.md" style="text-decoration: none; color: #007acc;">Final Project III</a>
-</div>
-
 # Visualizing Government Debt
 
-This section includes a Tableau visualization embedded as an iframe. The visualization shows government debt-to-GDP ratios over time for various countries.
+## Part One: Working with Web-Based Visualization Tools and Data
 
-<iframe src="https://public.tableau.com/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt?:showVizHome=no&:embed=true" width="1152" height="547"></iframe>
+For this exercise, I began by exploring the OECD’s government debt dataset. The dataset provides general government debt-to-GDP ratios across various countries from 1995 to 2021. Using the built-in web tool on the OECD website, I customized a bar chart to focus on the year 2021, where I could compare the debt-to-GDP ratios across countries. Below is the embedded visualization.
 
-### Process:
-1. Loaded the OECD dataset.
-2. Created a line chart showing debt-to-GDP over time.
-3. Added color and filters to differentiate between countries.
+### Embedded Bar Chart Visualization from OECD:
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="https://cmustudent.github.io/tswd-portfolio-templates/" style="text-decoration: none; color: #007acc;">Home Page</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="visualizing-government-debt.md" style="text-decoration: none; color: #007acc;">Visualizing Government Debt</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="critique-by-design.md" style="text-decoration: none; color: #007acc;">Critique by Design</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="final-project-part-one.md" style="text-decoration: none; color: #007acc;">Final Project I</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="final-project-part-two.md" style="text-decoration: none; color: #007acc;">Final Project II</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="final-project-part-three.md" style="text-decoration: none; color: #007acc;">Final Project III</a>
-</div>
+<!-- Replace with iframe code if necessary or link to OECD bar chart -->
 
-# Visualizing Government Debt
+## Part Two: Working with Tableau
 
-Here is the Tableau visualization embedded directly:
+Next, I moved the dataset to Tableau for further analysis. After connecting the data and formatting the Time column correctly as a Date, I built a **highlight table** that allowed me to visually compare debt-to-GDP ratios across different countries over time.
 
+I then adjusted the color palette and filtered out certain countries for a more focused analysis. The heatmap visualization helped highlight countries with extremely high debt-to-GDP ratios (above 100%) in a distinctive color, making the data easier to interpret. Below is the embedded heatmap visualization:
+
+### Embedded Tableau Heatmap Visualization:
+
+```html
 <script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script>
-<tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt' width='1152' height='547' hide-tabs toolbar='bottom'></tableau-viz>
-
-### Process:
-1. Loaded the OECD dataset.
-2. Created a line chart showing debt-to-GDP over time.
-3. Added color and filters to differentiate between countries.
+<tableau-viz id='tableau-viz' 
+  src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt' 
+  width='1152' height='547' hide-tabs toolbar='bottom'>
+</tableau-viz>
