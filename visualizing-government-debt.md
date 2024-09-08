@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-bottom: 20px;">
-  <a href="https://cmustudent.github.io/AishwaryaPramod99/Aishwarya_Portfolio/" style="text-decoration: none; color: #007acc;">Home Page</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://cmustudent.github.io/tswd-portfolio-templates/" style="text-decoration: none; color: #007acc;">Home Page</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="visualizing-government-debt.md" style="text-decoration: none; color: #007acc;">Visualizing Government Debt</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="critique-by-design.md" style="text-decoration: none; color: #007acc;">Critique by Design</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="final-project-part-one.md" style="text-decoration: none; color: #007acc;">Final Project I</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,7 +57,3 @@ In Tableau, I followed these steps to create the visualization:
 ### Observations:
 - Countries like Greece and Japan have consistently high debt-to-GDP ratios, while others like Estonia show much lower values.
 - This visualization provides a clear overview of how debt has evolved over time.
-
-## Part Three: Create Your Own Visualization
-
-For my custom visualization, I decided to create a **heat map** to highlight how government debt levels vary between countries across different years. I felt this visualization would provide a clear, comparative view of government debt, allowing for easy identification of countries with the highest and lowest debt-to-GDP ratios.
