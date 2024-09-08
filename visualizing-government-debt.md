@@ -23,8 +23,7 @@ In this section, I explored OECD's web-based visualization tool to analyze gover
 For the next part of the assignment, I downloaded the OECD government debt dataset and used Tableau to create an interactive visualization that displays the debt-to-GDP ratio over time for various countries. Below is the embedded Tableau visualization.
 
 <!-- Embed your Tableau visualization -->
-<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script>
-<tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt' width='1152' height='547' hide-tabs toolbar='bottom'></tableau-viz>
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt' width='1152' height='547' hide-tabs toolbar='bottom' ></tableau-viz>
 
 ### Process:
 
