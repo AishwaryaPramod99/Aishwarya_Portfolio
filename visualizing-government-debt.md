@@ -14,11 +14,18 @@ By visualizing the data in this way, it is easy to see which countries are strug
 
 ![Part 1 Visualization](/Part1.png)  <!-- Reference the correct path where the image is located -->
 
-## Part 2: Working with Tableau
+## Part two: Working with Tableau
 
-_A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here. As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
+In this section, I used Tableau to visualize government debt data over time, focusing on the debt-to-GDP ratio across different countries from 1995 to 2019. The heatmap I created makes it easy to compare trends in debt levels, with the color gradients indicating changes in debt values over time. This visualization effectively shows how government debt evolved in each country and highlights countries with particularly high or low levels of debt during specific periods.
 
-<iframe src="https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt?:showVizHome=no&:embed=true" width="1152" height="547" frameborder="0"></iframe>
+Here is a snapshot of the Tableau dashboard:
+
+![Part 2 Tableau Visualization](/Part2.png)
+
+_To view the interactive version, please click [here](https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt?:showVizHome=no&:embed=true)._ 
+
+This visualization allowed me to identify clear trends, such as the steady increase in government debt for Japan and Greece, while other countries showed more stable or even decreasing debt levels.
+
 
 ## Part three: Create your own visualization
 
