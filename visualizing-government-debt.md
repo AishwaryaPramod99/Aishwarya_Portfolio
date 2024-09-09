@@ -18,7 +18,7 @@ By visualizing the data in this way, it is easy to see which countries are strug
 
 _A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here. As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
 
-<iframe src="https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt?:showVizHome=no&:embed=true" width="1152" height="547" frameborder="0"></iframe>
+[Visualizing Government Debt Tableau Dashboard](https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt?:showVizHome=no&:embed=true)
 
 ## Part three: Create your own visualization
 
