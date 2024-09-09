@@ -7,17 +7,7 @@ _As before, this template provides some of the structure you should have for you
 
 ## Part one: Working with web-based visualization tools and data
 
-_Include your visualization, and introduce us to what you did._
-
-<script type='text/javascript'>                    
-  var divElement = document.getElementById('viz0000000000000');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%'; 
-  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+![Part 1 Visualization](Aishwarya_Portfolio/images/Part1.png)
 
 ## Working with Tableau
 
