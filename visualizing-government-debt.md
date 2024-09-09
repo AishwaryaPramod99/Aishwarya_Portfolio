@@ -9,7 +9,7 @@
 <br>
 <br>
 
-# Title Visualizing Government Debt
+# Visualizing Government Debt
 
 ## Part one: Working with web-based visualization tools and data
 
