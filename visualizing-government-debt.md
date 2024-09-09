@@ -27,10 +27,25 @@ I customized the **color palette** to emphasize countries with high debt-to-GDP 
 
 ### Embedded Tableau Heatmap Visualization:
 
-<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script>
-<tableau-viz id='tableau-viz' 
-  src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt' 
-  width='768' height='547' hide-tabs toolbar='bottom'></tableau-viz>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz0000000000000');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+<div id="viz0000000000000" style="width: 768px; height: 547px;">
+  <object class="tableauViz" width="768" height="547" style="display:none;">
+    <param name="host_url" value="https%3A%2F%2Fus-east-1.online.tableau.com%2F" /> 
+    <param name="site_root" value="t/aponnamp-b2a709220c" />
+    <param name="name" value="VisualizingGovernmentDebt/VisualizingGovernmentDebt" />
+    <param name="tabs" value="no" />
+    <param name="toolbar" value="yes" />
+    <param name="showVizHome" value="no" />
+  </object>
+</div>
 
 ## Part Three: Creating a New Visualization
 
