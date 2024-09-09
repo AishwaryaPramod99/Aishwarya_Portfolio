@@ -16,8 +16,8 @@
 For this exercise, I began by exploring the **OECD’s government debt dataset**. The dataset provides general government debt-to-GDP ratios across various countries from **1995 to 2021**. Using the built-in web tool on the OECD website, I customized a **bar chart** to focus on the year **2021**, allowing for comparison of debt-to-GDP ratios across different countries.
 
 ### Embedded Bar Chart Visualization from OECD:
-<!-- If you have an embedded chart or a link to the chart, include it here -->
-<!-- You can provide a URL to the OECD visualization if needed -->
+<!-- Provide a URL to the OECD visualization if needed -->
+<!-- Example: <a href="https://example.com">Bar Chart</a> -->
 
 ## Part Two: Working with Tableau
 
@@ -27,7 +27,7 @@ I customized the **color palette** to emphasize countries with high debt-to-GDP 
 
 ### Embedded Tableau Heatmap Visualization:
 
-<iframe src="https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/alizingGovernmentDebt?:showVizHome=no&:embed=true"
+<iframe src="https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt?:showVizHome=no&:embed=true"
         width="1152" height="547" frameborder="0"></iframe>
 
 ## Part Three: Creating a New Visualization
@@ -35,3 +35,4 @@ I customized the **color palette** to emphasize countries with high debt-to-GDP 
 For the final part of this assignment, I created a **line chart** in Tableau, focusing on the changes in debt-to-GDP ratios over time for a few selected countries. This chart provides a dynamic view of how the debt ratios have evolved for these countries and highlights any significant changes over time.
 
 This chart was chosen to give a better understanding of how the debt-to-GDP ratios have trended over time, showing increases and decreases in various countries. Below is the embedded line chart visualization:
+<!-- Embedded Tableau Line Chart goes here -->
