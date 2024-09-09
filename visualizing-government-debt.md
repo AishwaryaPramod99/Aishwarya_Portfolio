@@ -3,17 +3,22 @@
 # Title
 Visualizing Government Debt
 
-_As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas. Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
-
 ## Part one: Working with web-based visualization tools and data
 
-_Include your visualization, and introduce us to what you did._
+For this part of the assignment, I used OECD data to visualize general government debt as a percentage of GDP in 2023. I chose to create a bar chart, which effectively represents the debt levels of various countries, allowing for easy comparison across nations.
+
+The visualization shows the percentage of GDP attributed to government debt for each country, with Greece and the United States showing significantly higher debt levels compared to other countries. The chart also includes countries with lower debt levels, such as Estonia and the OECD average country, providing a comprehensive overview of how government debt varies across different regions.
+
+By visualizing the data in this way, it is easy to see which countries are struggling with high debt relative to their GDP and which countries have managed to maintain lower debt levels. This type of visualization is useful for policymakers, economists, and researchers who want to quickly understand the global debt landscape.
+
 
 ![Part 1 Visualization](/Part1.png)  <!-- Reference the correct path where the image is located -->
 
-## Working with Tableau
+## Part 2: Working with Tableau
 
 _A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here. As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
+
+<iframe src="https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt?:showVizHome=no&:embed=true" width="1152" height="547" frameborder="0"></iframe>
 
 ## Part three: Create your own visualization
 
