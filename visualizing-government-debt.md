@@ -29,8 +29,6 @@ This visualization allowed me to identify clear trends, such as the steady incre
 
 ## Part three: Create your own visualization
 
-_Create another data visualization using the same data used earlier. DO NOT submit something that's just a minor modification of one of the visualizations already covered here. So, don't just modify the colors or labels of one of the earlier examples and call it good, or submit a slightly modified bar chart. Instead, see what you can come up with on your own, and spend some time to try and create something that tells a story about the data._
+The line graph effectively shows how debt-to-GDP ratios for the top 10 countries have changed over time. Unlike bar charts or heat maps, it highlights long-term trends, such as Greece's debt crisis and Japan's steady increase. This visualization makes it easy to compare countries and see how debt levels have evolved from 1998 to 2020.
 
-_Summarize in a paragraph or two about the different methods of visualization, and how they compare/contrast to one another. Make sure you include all source information and explain the data well. Talk about why you chose the third data visualization. Be specific - keep your writeup relevant to the assignment, and avoid jargon-filled language that doesn't say anything useful._
-
-_It's a good idea to go back and review your work. Could someone follow your process and understand what you did? Do you need to further connect any of the sections with a bit of text? Is it something you'd be happy to have as an example of your work from the class?_
+![Part 3 Create your own Visualization](/Part3.png)
