@@ -6,8 +6,6 @@
   <a href="final-project-part-two.md" style="text-decoration: none; color: #007acc;">Final Project II</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="final-project-part-three.md" style="text-decoration: none; color: #007acc;">Final Project III</a>
 </div>
-<br>
-<br>
 
 # Visualizing Government Debt
 
@@ -19,8 +17,7 @@ The visualization shows the percentage of GDP attributed to government debt for 
 
 By visualizing the data in this way, it is easy to see which countries are struggling with high debt relative to their GDP and which countries have managed to maintain lower debt levels. This type of visualization is useful for policymakers, economists, and researchers who want to quickly understand the global debt landscape.
 
-
-![Part 1 Visualization](/Part1.png)  <!-- Reference the correct path where the image is located -->
+![Part 1 Visualization](images/Part1.png) <!-- Ensure the image is correctly referenced with the proper path -->
 
 ## Part two: Working with Tableau
 
@@ -28,15 +25,14 @@ In this section, I used Tableau to visualize government debt data over time, foc
 
 Here is a snapshot of the Tableau dashboard:
 
-![Part 2 Tableau Visualization](/Part2.png)
+![Part 2 Tableau Visualization](images/Part2.png)
 
 _To view the interactive version, please click [here](https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt?:showVizHome=no&:embed=true)._ 
 
 This visualization allowed me to identify clear trends, such as the steady increase in government debt for Japan and Greece, while other countries showed more stable or even decreasing debt levels.
 
-
 ## Part three: Create your own visualization
 
 The line graph effectively shows how debt-to-GDP ratios for the top 10 countries have changed over time. Unlike bar charts or heat maps, it highlights long-term trends, such as Greece's debt crisis and Japan's steady increase. This visualization makes it easy to compare countries and see how debt levels have evolved from 1998 to 2020.
 
-![Part 3 Create your own Visualization](/Part3.png)
+![Part 3 Create your own Visualization](images/Part3.png)
