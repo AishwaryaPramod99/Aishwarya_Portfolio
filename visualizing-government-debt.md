@@ -1,39 +1,37 @@
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="https://cmustudent.github.io/tswd-portfolio-templates/" style="text-decoration: none; color: #007acc;">Home Page</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="visualizing-government-debt.md" style="text-decoration: none; color: #007acc;">Visualizing Government Debt</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="critique-by-design.md" style="text-decoration: none; color: #007acc;">Critique by Design</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="final-project-part-one.md" style="text-decoration: none; color: #007acc;">Final Project I</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="final-project-part-two.md" style="text-decoration: none; color: #007acc;">Final Project II</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="final-project-part-three.md" style="text-decoration: none; color: #007acc;">Final Project III</a>
-</div>
-<br>
-<br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualizing Government Debt</title>
+</head>
+<body>
 
-# Visualizing Government Debt
+<h1>Visualizing Government Debt</h1>
 
-## Part One: Working with Web-Based Visualization Tools and Data
+<h2>Part One: Working with Web-Based Visualization Tools and Data</h2>
 
-For this exercise, I began by exploring the **OECD’s government debt dataset**. The dataset provides general government debt-to-GDP ratios across various countries from **1995 to 2021**. Using the built-in web tool on the OECD website, I customized a **bar chart** to focus on the year **2021**, allowing for comparison of debt-to-GDP ratios across different countries.
+<p>For this exercise, I began by exploring the OECD’s government debt dataset. The dataset provides general government debt-to-GDP ratios across various countries from 1995 to 2021. Using the built-in web tool on the OECD website, I customized a bar chart to focus on the year 2021, allowing for comparison of debt-to-GDP ratios across different countries.</p>
 
-### Embedded Bar Chart Visualization from OECD:
-<!-- Provide a URL to the OECD visualization if needed -->
-<!-- Example: <a href="https://example.com">Bar Chart</a> -->
+<h3>Embedded Bar Chart Visualization from OECD:</h3>
+<!-- You can link to the OECD chart here -->
 
-## Part Two: Working with Tableau
+<h2>Part Two: Working with Tableau</h2>
 
-Next, I imported the dataset into **Tableau** for further analysis. After connecting the data and correctly formatting the **Time** column as a date, I created a **highlight table** to visually compare debt-to-GDP ratios across various countries over time.
+<p>Next, I imported the dataset into Tableau for further analysis. After connecting the data and correctly formatting the Time column as a date, I created a highlight table to visually compare debt-to-GDP ratios across various countries over time.</p>
 
-I customized the **color palette** to emphasize countries with high debt-to-GDP ratios (over 100%), and filtered out specific countries for better focus. This heatmap allowed me to more easily spot countries with critical debt situations. Below is the embedded heatmap visualization from Tableau:
+<p>I customized the color palette to emphasize countries with high debt-to-GDP ratios (over 100%), and filtered out specific countries for better focus. This heatmap allowed me to more easily spot countries with critical debt situations. Below is the embedded heatmap visualization from Tableau:</p>
 
-### Embedded Tableau Heatmap Visualization:
+<h3>Embedded Tableau Heatmap Visualization:</h3>
 
-<iframe src="https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt?:showVizHome=no&:embed=true"
-        width="1152" height="547" frameborder="0"></iframe>
+<iframe src="https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt?:showVizHome=no&:embed=true" width="1152" height="547" frameborder="0"></iframe>
 
+<h2>Part Three: Creating a New Visualization</h2>
 
-## Part Three: Creating a New Visualization
+<p>For the final part of this assignment, I created a line chart in Tableau, focusing on the changes in debt-to-GDP ratios over time for a few selected countries. This chart provides a dynamic view of how the debt ratios have evolved for these countries and highlights any significant changes over time.</p>
 
-For the final part of this assignment, I created a **line chart** in Tableau, focusing on the changes in debt-to-GDP ratios over time for a few selected countries. This chart provides a dynamic view of how the debt ratios have evolved for these countries and highlights any significant changes over time.
+<h3>Embedded Line Chart Visualization:</h3>
+<!-- You can add the embedded line chart iframe here -->
 
-This chart was chosen to give a better understanding of how the debt-to-GDP ratios have trended over time, showing increases and decreases in various countries. Below is the embedded line chart visualization:
-<!-- Embedded Tableau Line Chart goes here -->
+</body>
+</html>
