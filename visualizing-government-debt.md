@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Visualizing Government Debt</title>
-</head>
-<body>
-
-<h1>Visualizing Government Debt</h1>
-
-<h2>Part One: Working with Web-Based Visualization Tools and Data</h2>
-
-<p>For this exercise, I began by exploring the OECD’s government debt dataset. The dataset provides general government debt-to-GDP ratios across various countries from 1995 to 2021. Using the built-in web tool on the OECD website, I customized a bar chart to focus on the year 2021, allowing for comparison of debt-to-GDP ratios across different countries.</p>
-
-<h3>Embedded Bar Chart Visualization from OECD:</h3>
-<!-- You can link to the OECD chart here -->
+<iframe width="600" height="400" src="https://data-viewer.oecd.org?chartId=e40d22d3-af6c-46d1-a859-ba153058360b" frameborder="0" allowfullscreen></iframe>
 
 <h2>Part Two: Working with Tableau</h2>
 
