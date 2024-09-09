@@ -16,13 +16,37 @@ By visualizing the data in this way, it is easy to see which countries are strug
 
 In this section, I used Tableau to visualize government debt data over time, focusing on the debt-to-GDP ratio across different countries from 1995 to 2019. The heatmap I created makes it easy to compare trends in debt levels, with the color gradients indicating changes in debt values over time. This visualization effectively shows how government debt evolved in each country and highlights countries with particularly high or low levels of debt during specific periods.
 
-Here is a snapshot of the Tableau dashboard:
+Here is the embedded Tableau dashboard:
 
-![Part 2 Tableau Visualization](/Part2.png)
+<div class='tableauPlaceholder' id='viz0000000000000' style='position: relative'>
+    <noscript><a href='#'>
+    <img alt='Visualizing Government Debt ' src='https://us-east-1.online.tableau.com/static/images/debt_image_placeholder.png' style='border: none' />
+    </a></noscript>
+    <object class='tableauViz'  style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fus-east-1.online.tableau.com%2F' /> 
+        <param name='embed_code_version' value='3' /> 
+        <param name='site_root' value='t/aponnamp-b2a709220c' />
+        <param name='name' value='VisualizingGovernmentDebt/VisualizingGovernmentDebt' />
+        <param name='toolbar' value='bottom' />
+        <param name='static_image' value='https://us-east-1.online.tableau.com/static/images/debt_image_placeholder.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+    </object>
+</div>
 
-_To view the interactive version, please click [here](https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt?:showVizHome=no&:embed=true)._ 
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz0000000000000');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
-This visualization allowed me to identify clear trends, such as the steady increase in government debt for Japan and Greece, while other countries showed more stable or even decreasing debt levels.
 
 ## Part three: Create your own visualization
 
