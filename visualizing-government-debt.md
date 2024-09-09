@@ -27,8 +27,10 @@ I customized the **color palette** to emphasize countries with high debt-to-GDP 
 
 ### Embedded Tableau Heatmap Visualization:
 
-<iframe src="https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt?:showVizHome=no&:embed=true"
-        width="1152" height="547" frameborder="0"></iframe>
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script>
+<tableau-viz id='tableau-viz' 
+  src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt' 
+  width='768' height='547' hide-tabs toolbar='bottom'></tableau-viz>
 
 ## Part Three: Creating a New Visualization
 
