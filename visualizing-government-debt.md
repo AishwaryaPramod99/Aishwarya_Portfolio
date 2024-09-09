@@ -9,7 +9,7 @@ _As before, this template provides some of the structure you should have for you
 
 _Include your visualization, and introduce us to what you did._
 
-![Part 1 Visualization](images/Part1.png)  <!-- Reference the correct path where the image is located -->
+![Part 1 Visualization](/Part1.png)  <!-- Reference the correct path where the image is located -->
 
 ## Working with Tableau
 
