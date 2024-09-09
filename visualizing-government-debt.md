@@ -9,9 +9,15 @@ _As before, this template provides some of the structure you should have for you
 
 _Include your visualization, and introduce us to what you did._
 
-<iframe src="https://data-viewer.oecd.org?chartId=e40d22d3-af6c-46d1-a859-ba153058360b" style="border: none"; allowfullscreen="true">;
-    <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=e40d22d3-af6c-46d1-a859-ba153058360b" target="_blank">Dataflow</a>
-  </iframe>;
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz0000000000000');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%'; 
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 ## Working with Tableau
 
