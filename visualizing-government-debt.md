@@ -24,7 +24,7 @@ src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.la
 <tableau-viz 
   id='tableau-viz'
   src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt'
-  width='768'
+  width='900'
   height='547'
   hide-tabs
   toolbar='bottom' >
@@ -40,7 +40,7 @@ src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.la
 <tableau-viz 
   id='tableau-viz'
   src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/LineChart-Debt-to-GDPTrends/Debt-to-GDPTrendsTop10Countriesfrom1998to2020'
-  width='768'
+  width='900'
   height='547'
   hide-tabs
   toolbar='bottom' >
