@@ -10,7 +10,7 @@ For this part of the assignment, I used OECD data to visualize general governmen
 
 The chart shows that Greece and the United States have significantly higher debt levels relative to their GDP compared to other countries. It also highlights nations with lower debt levels, such as Estonia and the OECD average, offering a comprehensive overview of global debt variation.
 
-By visualizing the data this way, it becomes easy to identify which countries are struggling with high debt and which have managed to keep their debt levels low. This visualization is especially useful for policymakers, economists, and researchers who need to quickly understand the global debt landscape and identify countries that may require closer economic attention.
+By visualizing the data this way, it becomes easy to identify which countries are struggling with high debt and which have managed to keep their debt levels low. This visualization is especially useful for those who need to quickly understand the global debt landscape and identify countries that may require closer economic attention.
 
 ![Part 1 Visualization](/Part1.png) <!-- Ensure the image is correctly referenced with the proper path -->
 
