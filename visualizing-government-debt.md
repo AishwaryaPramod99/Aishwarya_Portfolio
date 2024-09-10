@@ -16,34 +16,32 @@ By visualizing the data in this way, it is easy to see which countries are strug
 
 In this section, I used Tableau to visualize government debt data over time, focusing on the debt-to-GDP ratio across different countries from 1995 to 2019. The heatmap I created makes it easy to compare trends in debt levels, with the color gradients indicating changes in debt values over time. This visualization effectively shows how government debt evolved in each country and highlights countries with particularly high or low levels of debt during specific periods.
 
-Here is the embedded Tableau dashboard@@@@@@@@@
+Here is the embedded Tableau dashboard
 
-{% raw %}
-<script type='text/javascript'>
-  var divElement = document.getElementById('viz0000000000000');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width = '100%';
-  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+<script type='module' 
+src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'>
 </script>
-{% endraw %}
-
+<tableau-viz 
+  id='tableau-viz'
+  src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt'
+  width='768'
+  height='547'
+  hide-tabs
+  toolbar='bottom' >
+</tableau-viz>
 
 ## Part three: Create your own visualization
 
 The line graph effectively shows how debt-to-GDP ratios for the top 10 countries have changed over time. Unlike bar charts or heat maps, it highlights long-term trends, such as Greece's debt crisis and Japan's steady increase. This visualization makes it easy to compare countries and see how debt levels have evolved from 1998 to 2020.
 
-{% raw %}
-<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script>
-
+<script type='module' 
+src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'>
+</script>
 <tableau-viz 
-    id='tableau-viz' 
-    src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt' 
-    width='1152' 
-    height='547' 
-    hide-tabs 
-    toolbar='bottom'>
+  id='tableau-viz'
+  src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/LineChart-Debt-to-GDPTrends/Debt-to-GDPTrendsTop10Countriesfrom1998to2020'
+  width='768'
+  height='547'
+  hide-tabs
+  toolbar='bottom' >
 </tableau-viz>
-{% endraw %}
