@@ -18,14 +18,17 @@ In this section, I used Tableau to visualize government debt data over time, foc
 
 Here is the embedded Tableau dashboard:::::::::::::::
 
-<script type='text/javascript'>                    
-  var divElement = document.getElementById('viz0000000000000');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt';  
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+{% raw %}
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz0000000000000');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width = '100%';
+  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+{% endraw %}
 
 
 ## Part three: Create your own visualization
