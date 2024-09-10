@@ -42,17 +42,6 @@ Key customizations include:
     Thicker lines for Greece and Japan to emphasize their debt increases.
     Annotations for key moments, such as Japan’s peak debt in 2018 (238.7%) and Greece’s sharp rise around 2012.
 
-<script type='module' 
-src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'>
-</script>
-<tableau-viz 
-  id='tableau-viz'
-  src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/LineChart-Debt-to-GDPTrends/Debt-to-GDPTrendsTop10Countriesfrom1998to2020'
-  width='900'
-  height='547'
-  hide-tabs
-  toolbar='bottom' >
-</tableau-viz>
 
 <div class='tableauPlaceholder' id='viz1725997249198' style='position: relative'><noscript><a href='#'><img alt='Debt-to-GDP Trends: Top 10 Countries from 1998 to 2020Source: OECD General Government Debt Indicator ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VisualizingGovernmentDebt_17259972226310&#47;Debt-to-GDPTrendsTop10Countriesfrom1998to2020&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='VisualizingGovernmentDebt_17259972226310&#47;Debt-to-GDPTrendsTop10Countriesfrom1998to2020' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VisualizingGovernmentDebt_17259972226310&#47;Debt-to-GDPTrendsTop10Countriesfrom1998to2020&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
