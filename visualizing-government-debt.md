@@ -16,29 +16,14 @@ By visualizing the data in this way, it is easy to see which countries are strug
 
 In this section, I used Tableau to visualize government debt data over time, focusing on the debt-to-GDP ratio across different countries from 1995 to 2019. The heatmap I created makes it easy to compare trends in debt levels, with the color gradients indicating changes in debt values over time. This visualization effectively shows how government debt evolved in each country and highlights countries with particularly high or low levels of debt during specific periods.
 
-Here is the embedded Tableau dashboard:----------------
-<div class='tableauPlaceholder' id='viz0000000000000' style='position: relative'>
-  <noscript>
-    <a href='#'>
-      <img alt='Visualizing Government Debt' src='https://us-east-1.online.tableau.com/static/images/debt_image_placeholder.png' style='border: none' />
-    </a>
-  </noscript>
-  <object class='tableauViz' style='display:none;'>
-    <param name='host_url' value='https://us-east-1.online.tableau.com/' />
-    <param name='site_root' value='t/aponnamp-b2a709220c' />
-    <param name='name' value='VisualizingGovernmentDebt/VisualizingGovernmentDebt' />
-    <param name='toolbar' value='bottom' />
-    <param name='static_image' value='https://us-east-1.online.tableau.com/static/images/debt_image_placeholder.png' />
-  </object>
-</div>
+Here is the embedded Tableau dashboard:::::::::::::::
 
-<script type='text/javascript'>
+<script type='text/javascript'>                    
   var divElement = document.getElementById('viz0000000000000');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width = '100%'; 
-  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js';                    
+  scriptElement.src = 'https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt';  
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
