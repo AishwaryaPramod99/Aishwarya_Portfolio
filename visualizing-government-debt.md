@@ -35,13 +35,15 @@ The line graph effectively shows how debt-to-GDP ratios for the top 10 countries
 {% raw %}
 <script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script>
 
+{% raw %}
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script>
+
 <tableau-viz 
     id='tableau-viz' 
-    src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/LineChart-Debt-to-GDPTrends/Debt-to-GDPTrendsTop10Countriesfrom1998to2020' 
+    src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt' 
     width='1152' 
     height='547' 
     hide-tabs 
     toolbar='bottom'>
 </tableau-viz>
 {% endraw %}
-
