@@ -36,7 +36,13 @@ src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.la
 
 ## Part three: Create your own visualization
 
-The line graph effectively shows how debt-to-GDP ratios for the top 10 countries have changed over time. Unlike bar charts or heat maps, it highlights long-term trends, such as Greece's debt crisis and Japan's steady increase. This visualization makes it easy to compare countries and see how debt levels have evolved from 1998 to 2020.
+This line graph visualizes government debt as a percentage of GDP for the top 10 OECD countries from 1998 to 2020 using data from the OECD General Government Debt Indicator.
+
+Key customizations include:
+
+    Distinct colors for each country, with Greece (red) and Japan (blue) highlighted for their significant debt trends.
+    Thicker lines for Greece and Japan to emphasize their debt increases.
+    Annotations for key moments, such as Japan’s peak debt in 2018 (238.7%) and Greece’s sharp rise around 2012.
 
 <script type='module' 
 src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'>
