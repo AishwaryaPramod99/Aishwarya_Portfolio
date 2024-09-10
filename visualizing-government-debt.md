@@ -4,11 +4,13 @@
 
 ## Part one: Working with web-based visualization tools and data
 
-For this part of the assignment, I used OECD data to visualize general government debt as a percentage of GDP in 2023. I chose to create a bar chart, which effectively represents the debt levels of various countries, allowing for easy comparison across nations.
+Government Debt as a Percentage of GDP - 2023
 
-The visualization shows the percentage of GDP attributed to government debt for each country, with Greece and the United States showing significantly higher debt levels compared to other countries. The chart also includes countries with lower debt levels, such as Estonia and the OECD average country, providing a comprehensive overview of how government debt varies across different regions.
+For this part of the assignment, I used OECD data to visualize general government debt as a percentage of GDP for various countries in 2023. Here bar chart provides a clear and straightforward way to compare debt levels across nations.
 
-By visualizing the data in this way, it is easy to see which countries are struggling with high debt relative to their GDP and which countries have managed to maintain lower debt levels. This type of visualization is useful for policymakers, economists, and researchers who want to quickly understand the global debt landscape.
+The chart shows that Greece and the United States have significantly higher debt levels relative to their GDP compared to other countries. It also highlights nations with lower debt levels, such as Estonia and the OECD average, offering a comprehensive overview of global debt variation.
+
+By visualizing the data this way, it becomes easy to identify which countries are struggling with high debt and which have managed to keep their debt levels low. This visualization is especially useful for policymakers, economists, and researchers who need to quickly understand the global debt landscape and identify countries that may require closer economic attention.
 
 ![Part 1 Visualization](/Part1.png) <!-- Ensure the image is correctly referenced with the proper path -->
 
