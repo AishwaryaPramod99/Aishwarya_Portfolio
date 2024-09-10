@@ -20,18 +20,30 @@ Here is the embedded Tableau dashboard:
 
 Here is the embedded Tableau dashboard:
 
-{% raw %}
-<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script>
+<div class='tableauPlaceholder' id='viz0000000000000' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='Visualizing Government Debt' src='https://us-east-1.online.tableau.com/static/images/debt_image_placeholder.png' style='border: none' />
+    </a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https://us-east-1.online.tableau.com/' />
+    <param name='site_root' value='t/aponnamp-b2a709220c' />
+    <param name='name' value='VisualizingGovernmentDebt/VisualizingGovernmentDebt' />
+    <param name='toolbar' value='bottom' />
+    <param name='static_image' value='https://us-east-1.online.tableau.com/static/images/debt_image_placeholder.png' />
+  </object>
+</div>
 
-<tableau-viz 
-    id='tableau-viz' 
-    src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/VisualizingGovernmentDebt/VisualizingGovernmentDebt' 
-    width='1152' 
-    height='547' 
-    hide-tabs 
-    toolbar='bottom'>
-</tableau-viz>
-{% endraw %}
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz0000000000000');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width = '100%'; 
+  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 
 ## Part three: Create your own visualization
