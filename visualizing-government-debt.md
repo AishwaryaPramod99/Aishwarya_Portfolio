@@ -18,6 +18,9 @@ In this section, I used Tableau to visualize government debt data over time, foc
 
 Here is the embedded Tableau dashboard:
 
+Here is the embedded Tableau dashboard:
+
+{% raw %}
 <div class='tableauPlaceholder' id='viz0000000000000' style='position: relative'>
   <noscript>
     <a href='#'>
@@ -42,7 +45,7 @@ Here is the embedded Tableau dashboard:
   scriptElement.src = 'https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
+{% endraw %}
 
 
 
