@@ -55,3 +55,16 @@ src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.la
   hide-tabs
   toolbar='bottom' >
 </tableau-viz>
+
+
+## Visualization Methods Comparison
+
+For this project, I explored different ways to visualize government debt as a percentage of GDP, like bar charts, heat maps, and line graphs. Bar charts are great for comparing debt at a single point in time, while heat maps give a nice overview of changes across multiple countries. But I found that they didn’t show year-to-year changes as clearly as I wanted.
+
+I ended up choosing a line graph because it does a better job of showing how debt has changed over time. This made it easier to see big trends, like Greece’s sharp rise in debt around 2012 and Japan’s steady increase over the years. The line graph highlights these changes more clearly than other methods I tried.
+
+### Color Scheme
+I customized the colors to make important trends stand out. For example, I used red for Greece to highlight its big debt spike around 2012, and blue for Japan to show its steady climb in debt, which peaks in 2018. I used softer colors for countries with less dramatic changes, so the graph stays easy to read without too much going on. This way, the most important trends are easy to spot.
+
+### Data and Source Information
+The data comes from the OECD General Government Debt Indicator, which tracks how much debt countries have compared to their GDP. This is an important measure of a country’s financial health. I used the line graph to show how this ratio has changed over time for different countries, especially focusing on key points like Japan’s peak debt and Greece’s debt crisis. The interactive graph also lets you hover over the lines to see specific values for each year.
