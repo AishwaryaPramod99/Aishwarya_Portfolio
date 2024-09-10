@@ -32,4 +32,16 @@ Here is the embedded Tableau dashboard:::::::::::::::
 
 The line graph effectively shows how debt-to-GDP ratios for the top 10 countries have changed over time. Unlike bar charts or heat maps, it highlights long-term trends, such as Greece's debt crisis and Japan's steady increase. This visualization makes it easy to compare countries and see how debt levels have evolved from 1998 to 2020.
 
-![Part 3 Create your own Visualization](/Part3.png)
+{% raw %}
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script>
+
+<tableau-viz 
+    id='tableau-viz' 
+    src='https://us-east-1.online.tableau.com/t/aponnamp-b2a709220c/views/LineChart-Debt-to-GDPTrends/Debt-to-GDPTrendsTop10Countriesfrom1998to2020' 
+    width='1152' 
+    height='547' 
+    hide-tabs 
+    toolbar='bottom'>
+</tableau-viz>
+{% endraw %}
+
