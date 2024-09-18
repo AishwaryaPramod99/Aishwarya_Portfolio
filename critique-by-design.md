@@ -1,21 +1,19 @@
 | [home page](https://aishwaryapramod99.github.io/Aishwarya_Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # "US Air Travel Falls Due to Covid Epidemic" Visualization
-For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visualization and the data source is Bureau of Transportation Statistics. This visualization shows the drastic decline in air travel during the Covid-19 pandemic. Here I am to critique the original visualization and build a more impactful one which gives a better representation than what it does. I have also documented the feedbacks and the final updated design.
+For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visualization and the data source is Bureau of Transportation Statistics. This visualization shows the drastic decline in air travel during the Covid-19 pandemic. My goal here is to critique the original visualization and build a more impactful one which gives a better representation than what it does. I have also documented the feedbacks and the final updated design.
 
 
 ## Step one: the visualization
 <img src="original_visualization.png" alt="original" style="width:100%; height:50%;">
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visualization and the data source is Bureau of Transportation Statistics. This visualization shows the drastic decline in air travel during the Covid-19 pandemic. Here I am to critique the original visualization and build a more impactful one which gives a better representation than what it does. I have also documented the feedbacks and the final updated design.
+For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visualization and the data source is Bureau of Transportation Statistics. This visualization shows the drastic decline in air travel during the COVID-19 pandemic. My goal here is to critique the original visualization and build a more impactful one which gives a better representation than what it does. I have also documented the feedbacks and the final updated design.
 
 Title: US Air Travel Falls Due to Covid Epidemic
 Link to original dataset: https://forms.gle/Mp85L1LSA2otXVjz8
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
-
 
 For the critique, I used Stephen Few's Data Visualization Effectiveness Profile to evaluate the strengths and weaknesses of the original visualization. I assessed the following aspects:
 
@@ -63,7 +61,7 @@ The graph effectively communicates the impact of COVID-19 on U.S. air travel, es
 
 The visualization highlights the sudden decline during the months when COVID-19 occurred making it very impactful to the readers of this chart. Including the 7-day average assists in understanding the overall trend, however it there are few improvements to make it better:
 
-    Adding annotations to highlight key events (e.g., travel bans).
+    Adding annotations to highlight key events (e.g. decline due to COVID-19).
     Enhancing the visual design to be more engaging.
 
 
@@ -84,24 +82,6 @@ Add historical context to this graph by adding data from 2000-2020 which shows v
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
 
 | Question                                               | Interview 1                                                          | Interview 2                                                          |
 |--------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
@@ -112,8 +92,6 @@ _Don't identify or share personally identifiable information (PII) about the peo
 | Is there anything you would change or do differently?  | I would like to see yearly or monthly data rather than daily data to get a high-level view. | It would be great to add some kind of filter to see comparisons.       |
 
 Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 Key patterns that emerged from these interviews include the visualization being understood to represent a decline in U.S. air travel because of the COVID-19 pandemic-with some confusion about the granularity of data. For example, one participant questioned if value was being provided by using daily points and showing it as a 7-day average. Otherwise, both interviewees were correctly able to perceive the dramatic decline in air travelling in the year 2020-one of them even tried to attribute this to travel restrictions. Second, one of the participants did request more information on what specific month or event brought such drops-so perhaps there is a better need for contextual markers.
 
