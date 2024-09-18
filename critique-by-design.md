@@ -5,7 +5,7 @@ For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visu
 
 
 ## Step one: the visualization
-
+<img src="original_visualization.png" alt="original" style="width:100%; height:50%;">
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visualization and the data source is Bureau of Transportation Statistics. This visualization shows the drastic decline in air travel during the Covid-19 pandemic. Here I am to critique the original visualization and build a more impactful one which gives a better representation than what it does. I have also documented the feedbacks and the final updated design.
@@ -114,6 +114,12 @@ _Don't identify or share personally identifiable information (PII) about the peo
 Synthesis: 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+
+Key patterns that emerged from these interviews include the visualization being understood to represent a decline in U.S. air travel because of the COVID-19 pandemic-with some confusion about the granularity of data. For example, one participant questioned if value was being provided by using daily points and showing it as a 7-day average. Otherwise, both interviewees were correctly able to perceive the dramatic decline in air travelling in the year 2020-one of them even tried to attribute this to travel restrictions. Second, one of the participants did request more information on what specific month or event brought such drops-so perhaps there is a better need for contextual markers.
+
+These comments confirm that the original visualization did a good job conveying the overall trend in the sharp decline of air travel due to the pandemic. Both interviewees here felt the daily data points added noise for those viewers wanting to focus on the bigger picture. Both interviewees mentioned that it would be more intuitive and easily understandable if the data aggregation of the visualization was done on the month or yearly intervals. A great number of comments expressed a desire to have more information for example, annotating why the decline occurred, and when. Key events should be marked-namely. The line of the 7-day average hardly contributed anything to most viewers as interest was in time-period patterns, not short-term changes.
+
+Moving to yearly or monthly will reduce noise and make it easier to read the overall trend. Adding appropriate annotation for key events like travel bans and lockdowns that will provide information. Coloring the data point for 2020 differently or use a larger marker to show its sharp decline will make it faster to understamd. I will also enhance the color scheme to make the chart more readable and accessible. Finally, I will eliminate the line plotting the 7-day average in order to better focus more on broader trends and provide a cleaner, more impressive visualization.
 
 ## Step five: build the solution
 
