@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://aishwaryapramod99.github.io/Aishwarya_Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # "US Air Travel Falls Due to Covid Epidemic" Visualization
 For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visualization and the data source is Bureau of Transportation Statistics. This visualization shows the drastic decline in air travel during the Covid-19 pandemic. Here I am to critique the original visualization and build a more impactful one which gives a better representation than what it does. I have also documented the feedbacks and the final updated design.
@@ -15,7 +15,6 @@ Link to original dataset: https://forms.gle/Mp85L1LSA2otXVjz8
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
-
 
 
 For the critique, I used Stephen Few's Data Visualization Effectiveness Profile to evaluate the strengths and weaknesses of the original visualization. I assessed the following aspects:
@@ -81,7 +80,7 @@ Add historical context to this graph by adding data from 2000-2020 which shows v
 
 
 ## Step three: Sketch a solution
-
+<img src="image%20for%20portfolio.png" alt="Data Science Word Cloud" style="width:100%; height:50%;">
 
 ## Step four: Test the solution
 
