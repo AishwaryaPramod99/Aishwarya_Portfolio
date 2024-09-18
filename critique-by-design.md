@@ -80,7 +80,7 @@ Add historical context to this graph by adding data from 2000-2020 which shows v
 
 
 ## Step three: Sketch a solution
-<img src="image%20for%20portfolio.png" alt="Data Science Word Cloud" style="width:100%; height:50%;">
+<img src="step3sketch.jpeg" alt="sketch my graph" style="width:100%; height:50%;">
 
 ## Step four: Test the solution
 
@@ -103,9 +103,9 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question                                              | Interview 1                                                          | Interview 2 |
-|-------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Can you tell me what you think this is?               | Looks like a graph of decline in the U.S. air travel due to pandemic.                      | Line chart of air travel in the United States over time.                |
+| Question                                               | Interview 1                                                          | Interview 2 |
+|--------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Can you tell me what you think this is?                | Looks like a graph of decline in the U.S. air travel due to pandemic.                      | Line chart of air travel in the United States over time.                |
 
 | Can you describe to me what this is telling you?      | Its showing that because of COVID-19, air travel dropped significantly in 2020.            | This graph shows air travel fell sharply during 2020 probably due to restrictions. |
 | Is there anything you find surprising or confusing?   | Daily data looks noisy and I'm not sure what's if 7-day average is helful.                 | I feel like more detail on why it dropped certain months might be helpful. |
