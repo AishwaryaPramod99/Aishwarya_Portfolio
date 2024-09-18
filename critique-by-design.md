@@ -103,16 +103,13 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question                                               | Interview 1                                                          | Interview 2 |
-|--------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Can you tell me what you think this is?                | Looks like a graph of decline in the U.S. air travel due to pandemic.                      | Line chart of air travel in the United States over time.                |
-
-| Can you describe to me what this is telling you?      | Its showing that because of COVID-19, air travel dropped significantly in 2020.            | This graph shows air travel fell sharply during 2020 probably due to restrictions. |
-| Is there anything you find surprising or confusing?   | Daily data looks noisy and I'm not sure what's if 7-day average is helful.                 | I feel like more detail on why it dropped certain months might be helpful. |
-
-| Who do you think is the intended audience for this?   | Frequent traveller who want to know about the effect of COVID-19 on future travel trips.   | This looks to be for economists or airlines inductry.                    |
-
-| Is there anything you would change or do differently? | I would like to see yearly or monthly data rather than daily data to get a high-level view.| It would be great to add some kind of filter to see comparisons.         |
+| Question                                               | Interview 1                                                          | Interview 2                                                          |
+|--------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| Can you tell me what you think this is?                | Looks like a graph of decline in the U.S. air travel due to pandemic. | Line chart of air travel in the United States over time.              |
+| Can you describe to me what this is telling you?       | It's showing that because of COVID-19, air travel dropped significantly in 2020. | This graph shows air travel fell sharply during 2020 probably due to restrictions. |
+| Is there anything you find surprising or confusing?    | Daily data looks noisy and I'm not sure if the 7-day average is helpful. | I feel like more detail on why it dropped certain months might be helpful. |
+| Who do you think is the intended audience for this?    | Frequent travelers who want to know about the effect of COVID-19 on future travel trips. | This looks to be for economists or the airline industry.              |
+| Is there anything you would change or do differently?  | I would like to see yearly or monthly data rather than daily data to get a high-level view. | It would be great to add some kind of filter to see comparisons.       |
 
 Synthesis: 
 
