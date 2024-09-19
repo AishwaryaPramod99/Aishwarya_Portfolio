@@ -19,13 +19,12 @@ I selected this visualization because it displays an extremely relevant and crit
 
 For the critique, I used Stephen Few's Data Visualization Effectiveness Profile to evaluate the strengths and weaknesses of the original visualization. I assessed the following aspects:
 
-Title: US Air Travel Falls Due to Covid Epidemic
-
+Title: US Air Travel Falls Due to Covid Epidemic <br>
 Link to original dataset: https://forms.gle/Mp85L1LSA2otXVjz8
 
-1. Usefulness: The visualization represents air travel traffic in U.S and how the impact of COVID-19. It is seen that number of passengers travelling reduced from March 2020. It also has a 7-day average line which helps decrease the noise from variations.
-Rank: 9/10  
-Reasoning: This visualization is helpful for those interested in understanding the impact of COVID-19 on air travel.
+1. Usefulness: The visualization represents air travel traffic in U.S and how the impact of COVID-19. It is seen that number of passengers travelling reduced from March 2020. It also has a 7-day average line which helps decrease the noise from variations.<br>
+Rank: 9/10  <br>
+Reasoning: This visualization is helpful for those interested in understanding the impact of COVID-19 on air travel. <br>
 
 2. Completeness
 The visualization does not contain more explanations of important external factors like restrictions of travel that may have resulted in these patterns.
