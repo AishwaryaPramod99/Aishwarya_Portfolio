@@ -104,9 +104,9 @@ Moving to yearly or monthly will reduce noise and make it easier to read the ove
 </script>
 
 Final Solution Overview <br>
-The redesigned visualization shows air passengers in the U.S. annually between the range 2000 to 2020. This more effectively demonstrates the dramatic drop from flight passengers during the COVID-19 pandemic while emphasizing the recommended focus in 2020. This visualization encorporated the suggestions from user feedbacks regarding the preference for aggregate yearly data to major events.
+The redesigned visualization shows air passengers in the U.S. annually between the range 2000 to 2020. This more effectively demonstrates the dramatic drop from flight passengers during the COVID-19 pandemic while emphasizing the recommended focus in 2020. This visualization incorporated the suggestions from user feedbacks regarding the preference for aggregate yearly data to major events.
 
 Summary of Process <br>
 1. First Visualization: Presented daily U.S. air travel data in 2020, revealing much detail but noisy since its considering daily variations.
-2. User Feedback: Indicated a preference for less noisy, yearly aggregate data, marking the major event and including a 'year' paramater.
+2. User Feedback: Indicated a preference for less noisy, yearly aggregate data, marking the major event and including a 'year' parameter.
 3. Second Visualization: Removed daily data from visualization and emphasized the aggregate yearly data, simplified colors to a better palette, introduced a 'range slider' to allow users to view different years of interest in the timeline and finally highlighted 2020 and the year being compared which is added as a parameter.
