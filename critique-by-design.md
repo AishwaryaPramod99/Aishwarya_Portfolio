@@ -8,7 +8,7 @@ For this project I selected the "US Air Travel Falls Due to COVID Epidemic" visu
 <img src="original_visualization.png" alt="original" style="width:100%; height:50%;">
 
 Title: US Air Travel Falls Due to Covid Epidemic <br>
-Link to original dataset: https://forms.gle/Mp85L1LSA2otXVjz8
+Link to original dataset: https://data.world/makeovermonday/2021w16
 
 For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visualization and the data source is Bureau of Transportation Statistics. This visualization shows the drastic decline in air travel during the COVID-19 pandemic. My goal here is to critique the original visualization and build a more impactful one which gives a better representation than what it does. I have also documented the feedbacks and the final updated design.
 
@@ -19,10 +19,10 @@ I selected this visualization because it displays an extremely relevant and crit
 For the critique, I used Stephen Few's Data Visualization Effectiveness Profile to evaluate the strengths and weaknesses of the original visualization. I assessed the following aspects:
 
 Title: US Air Travel Falls Due to Covid Epidemic <br>
-Link to original dataset: https://forms.gle/Mp85L1LSA2otXVjz8
+Link to original dataset: https://data.world/makeovermonday/2021w16
 
 1. Usefulness: The visualization represents air travel traffic in U.S and how the impact of COVID-19. It is seen that number of passengers travelling reduced from March 2020. It also has a 7-day average line which helps decrease the noise from variations.<br>
-Rank: 9/10  <br>
+Rank: 8/10  <br>
 Reasoning: This visualization is helpful for those interested in understanding the impact of COVID-19 on air travel. <br>
 
 2. Completeness: The visualization does not contain more explanations of important external factors like restrictions of travel that may have resulted in these patterns.<br>
@@ -64,7 +64,7 @@ This feedback is helpful as a review of how the visualization was presented but 
 Shifting from daily data to yearly data, making the chart easier to interpret over a long time-period. <br>
 Adding context like key event markers, government advisories, holiday spikes. <br>
 Simple yet impressive colors to make it more appealing and accessible to colorblind users. <br>
-Facilitate colours more to make the graph sensitive to the major points of highlighting, like the difference between 2020 and other years, which will empower it to retain the viewers' attention. <br>
+Facilitate colors more to make the graph sensitive to the major points of highlighting, like the difference between 2020 and other years, which will empower it to retain the viewers' attention. <br>
 Add historical context to this graph by adding data from 2000-2020 which shows viewers the magnitude of how big this change has been.
 
 
