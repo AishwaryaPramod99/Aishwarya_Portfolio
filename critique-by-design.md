@@ -1,7 +1,7 @@
 | [home page](https://aishwaryapramod99.github.io/Aishwarya_Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # "US Air Travel Falls Due to Covid Epidemic" Visualization
-For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visualization and the data source is Bureau of Transportation Statistics. This visualization shows the drastic decline in air travel during the Covid-19 pandemic. My goal here is to critique the original visualization and build a more impactful one which gives a better representation than what it does. I have also documented the feedbacks and the final updated design.
+For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visualization and the data source is Bureau of Transportation Statistics. This visualization shows the drastic decline in air travel during the COVID-19 pandemic. My goal here is to critique the original visualization and build a more impactful one which gives a better representation than what it does. I have also documented the feedbacks and the final updated design.
 
 
 ## Step one: the visualization
@@ -112,10 +112,10 @@ Moving to yearly or monthly will reduce noise and make it easier to read the ove
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-Final Solution Overview
+Final Solution Overview <br>
 The redesigned visualization shows air passengers in the U.S. annually between the range 2000 to 2020. This more effectively demonstrates the dramatic drop from flight passengers during the COVID-19 pandemic while emphasizing the recommended focus in 2020. This visualization encorporated the suggestions from user feedbacks regarding the preference for aggregate yearly data to major events.
 
-Summary of Process
+Summary of Process <br>
 1. First Visualization: Presented daily U.S. air travel data in 2020, revealing much detail but noisy.
 2. User Feedback: Indicated a preference for less noisy, yearly aggregate data and notes considering major events.
 3. Second Visualization: Removed daily data from visualization and emphasized the aggregate yearly data, simplified colors to a better palette, introduced a 'range slider' to allow users to view different years of interest in the timeline and finally highlighted 2020 and the year being compared which is added as a parameter.
