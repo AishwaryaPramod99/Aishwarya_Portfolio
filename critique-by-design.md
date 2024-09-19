@@ -102,7 +102,7 @@ Moving to yearly or monthly will reduce noise and make it easier to read the ove
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
+<br>
 Final Solution Overview <br>
 The redesigned visualization shows air passengers in the U.S. annually between the range 2000 to 2020. This more effectively demonstrates the dramatic drop from flight passengers during the COVID-19 pandemic while emphasizing the recommended focus in 2020. This visualization incorporated the suggestions from user feedbacks regarding the preference for aggregate yearly data to major events.
 
