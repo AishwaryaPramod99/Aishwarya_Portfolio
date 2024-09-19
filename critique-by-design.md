@@ -6,20 +6,22 @@ For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visu
 
 ## Step one: the visualization
 <img src="original_visualization.png" alt="original" style="width:100%; height:50%;">
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+
+Title: US Air Travel Falls Due to Covid Epidemic
+
+Link to original dataset: https://forms.gle/Mp85L1LSA2otXVjz8
 
 For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visualization and the data source is Bureau of Transportation Statistics. This visualization shows the drastic decline in air travel during the COVID-19 pandemic. My goal here is to critique the original visualization and build a more impactful one which gives a better representation than what it does. I have also documented the feedbacks and the final updated design.
 
-Title: US Air Travel Falls Due to Covid Epidemic
-Link to original dataset: https://forms.gle/Mp85L1LSA2otXVjz8
+I selected this visualization because it displays an extremely relevant and critical impact on one of the most vital industries today. Of all the industries impacted by the pandemic, air travel was one of the most hit sectors in the global economy and this data shows how it impacted the number of passengers. I also chose this data visualization, because it needs improvements after all. The original one does get the message across, but it needs a lot of context behind the graph. The daily ups and downs make it a little hard to read as a whole not giving a broader pictureand it should have a few important months or specific events pointed out on the graph. So using this would help improve it and get the intended message across. 
 
 ## Step two: the critique
 
 For the critique, I used Stephen Few's Data Visualization Effectiveness Profile to evaluate the strengths and weaknesses of the original visualization. I assessed the following aspects:
 
 Title: US Air Travel Falls Due to Covid Epidemic
-Link to original dataset: https://forms.gle/Mp85L1LSA2otXVjz8
 
+Link to original dataset: https://forms.gle/Mp85L1LSA2otXVjz8
 
 1. Usefulness: The visualization represents air travel traffic in U.S and how the impact of COVID-19. It is seen that number of passengers travelling reduced from March 2020. It also has a 7-day average line which helps decrease the noise from variations.
 Rank: 9/10  
@@ -57,7 +59,7 @@ Reasoning: The sharp drop in numbers of passengers mainly during the initial mon
 
 Overall Observations:
 
-The graph effectively communicates the impact of COVID-19 on U.S. air travel, especially with the sharp decline in March 2020. The inclusion of the 7-day average line helps in understanding the overall trend. However, it could benefit from a few improvements:
+The graph effectively shows the impact of COVID-19 on U.S. air travel with the sharp decline in March 2020. The inclusion of the 7-day average line helps in understanding the overall trend. However, it could benefit from a few improvements:
 
 The visualization highlights the sudden decline during the months when COVID-19 occurred making it very impactful to the readers of this chart. Including the 7-day average assists in understanding the overall trend, however it there are few improvements to make it better:
 
@@ -93,15 +95,13 @@ Add historical context to this graph by adding data from 2000-2020 which shows v
 
 Synthesis: 
 
-Key patterns that emerged from these interviews include the visualization being understood to represent a decline in U.S. air travel because of the COVID-19 pandemic-with some confusion about the granularity of data. For example, one participant questioned if value was being provided by using daily points and showing it as a 7-day average. Otherwise, both interviewees were correctly able to perceive the dramatic decline in air travelling in the year 2020-one of them even tried to attribute this to travel restrictions. Second, one of the participants did request more information on what specific month or event brought such drops-so perhaps there is a better need for contextual markers.
+Key patterns that emerged from these interviews include the visualization being understood to represent a decline in U.S. air travel because of the COVID-19 pandemic. For example, one student questioned if value was being provided by using daily points and showing it as a 7-day average. Otherwise, both interviewees were correctly able to perceive the sudden decline in air travelling in the year 2020.
 
-These comments confirm that the original visualization did a good job conveying the overall trend in the sharp decline of air travel due to the pandemic. Both interviewees here felt the daily data points added noise for those viewers wanting to focus on the bigger picture. Both interviewees mentioned that it would be more intuitive and easily understandable if the data aggregation of the visualization was done on the month or yearly intervals. A great number of comments expressed a desire to have more information for example, annotating why the decline occurred, and when. Key events should be marked-namely. The line of the 7-day average hardly contributed anything to most viewers as interest was in time-period patterns, not short-term changes.
+These comments confirm that the original visualization did a good job conveying the overall trend in the sharp decline of air travel due to the pandemic. Both interviewees here felt the daily data points added noise for those viewers wanting to focus on the bigger picture. Both interviewees mentioned that it would be more intuitive and easily understandable if the data aggregation of the visualization was done on the month or yearly intervals. A great number of comments expressed a desire to have more information for example, annotating why the decline occurred, and when. Key events should be marked. The line of the 7-day average hardly contributed anything to most viewers as interest was in time-period patterns, not short-term changes.
 
-Moving to yearly or monthly will reduce noise and make it easier to read the overall trend. Adding appropriate annotation for key events like travel bans and lockdowns that will provide information. Coloring the data point for 2020 differently or use a larger marker to show its sharp decline will make it faster to understamd. I will also enhance the color scheme to make the chart more readable and accessible. Finally, I will eliminate the line plotting the 7-day average in order to better focus more on broader trends and provide a cleaner, more impressive visualization.
+Moving to yearly or monthly will reduce noise and make it easier to read the overall trend. Adding appropriate annotation for key events will provide information. Coloring the data point for 2020 differently or use a larger marker to show its sharp decline will make it faster to understamd. Also enhancing the color scheme makes the chart more readable and accessible. Finally, I eliminated the line plotting the 7-day average in order to better focus more on broader trends and provide a cleaner, more impressive visualization.
 
 ## Step five: build the solution
-
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 <div class='tableauPlaceholder' id='viz1726653165886' style='position: relative'><noscript><a href='#'><img alt='YEARLY AIR PASSENGERS IN THE U.S.THE EFFECT OF THE 2020 PANDEMIC ON U.S. AIR TRAFFICSOURCE:Original Visualization: US Air Travel Falls Due to Covid EpidemicData Source: Bureau of Transportation Statistics ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USAirTravelFallsDuetoCovidEpidemic_17266513904240&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='USAirTravelFallsDuetoCovidEpidemic_17266513904240&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USAirTravelFallsDuetoCovidEpidemic_17266513904240&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -113,3 +113,11 @@ _Include and describe your final solution here. It's also a good idea to summari
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+Final Solution Overview
+The redesigned visualization shows air passengers in the U.S. annually between the range 2000 to 2020. This more effectively demonstrates the dramatic drop from flight passengers during the COVID-19 pandemic while emphasizing the recommended focus in 2020. This visualization encorporated the suggestions from user feedbacks regarding the preference for aggregate yearly data to major events.
+
+Summary of Process
+1. First Visualization: Presented daily U.S. air travel data in 2020, revealing much detail but noisy.
+2. User Feedback: Indicated a preference for less noisy, yearly aggregate data and notes considering major events.
+3. Second Visualization: Removed daily data from visualization and emphasized the aggregate yearly data, simplified colors to a better palette, introduced a 'range slider' to allow users to view different years of interest in the timeline and finally highlighted 2020 and the year being compared which is added as a parameter.
