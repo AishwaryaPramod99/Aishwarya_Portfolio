@@ -7,8 +7,7 @@ For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visu
 ## Step one: the visualization
 <img src="original_visualization.png" alt="original" style="width:100%; height:50%;">
 
-Title: US Air Travel Falls Due to Covid Epidemic
-
+Title: US Air Travel Falls Due to Covid Epidemic <br>
 Link to original dataset: https://forms.gle/Mp85L1LSA2otXVjz8
 
 For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visualization and the data source is Bureau of Transportation Statistics. This visualization shows the drastic decline in air travel during the COVID-19 pandemic. My goal here is to critique the original visualization and build a more impactful one which gives a better representation than what it does. I have also documented the feedbacks and the final updated design.
@@ -27,33 +26,33 @@ Rank: 9/10  <br>
 Reasoning: This visualization is helpful for those interested in understanding the impact of COVID-19 on air travel. <br>
 
 2. Completeness
-The visualization does not contain more explanations of important external factors like restrictions of travel that may have resulted in these patterns.
-Rank: 6/10
-Reasoning: The data shown is clear and easy to understand but adding annotations or some marks in the chart for major dates or events would definitely help improve better understanding for the readers.
+The visualization does not contain more explanations of important external factors like restrictions of travel that may have resulted in these patterns.<br>
+Rank: 6/10 <br>
+Reasoning: The data shown is clear and easy to understand but adding annotations or some marks in the chart for major dates or events would definitely help improve better understanding for the readers. <br>
 
 3. Perceptibility
-The graph is not cluttered and well-spaced making easy to read and understand with properly marked labels and timeframes.
-Rank: 7/10
+The graph is not cluttered and well-spaced making easy to read and understand with properly marked labels and timeframes. <br>
+Rank: 7/10 <br>
 Reasoning: The graph is perceptible and line chart is appropriate for showing trends over time. But some readers may find it slightly difficult to identify the differences between daily variations and the average line without having a closer look.
 
 4. Truthfulness
-The graph correct demonstrates what it claims that is daily travelers passing through TSA checkpoints. The data is trust-worthy without having any incorrect or inaccurate information.
-Rank: 10/10
+The graph correct demonstrates what it claims that is daily travelers passing through TSA checkpoints. The data is trust-worthy without having any incorrect or inaccurate information. <br>
+Rank: 10/10 <br>
 Reasoning: The data is represented accurately and it uses a trustable source (TSA) and does not misrepresent the data or make incorrect comparisons.
 
 5. Intuitiveness
-The chart is intuitive and has time series data. The labeling add in more clarity, but the lack of context could make it harder for unfamiliar audiences.
-Rank: 8/10
+The chart is intuitive and has time series data. The labeling add in more clarity, but the lack of context could make it harder for unfamiliar audiences. <br>
+Rank: 8/10 <br>
 Reasoning: While the graph is  easy to understand, some target groups may not be familiar with the concept of TSA checkpoints or the 7-day average and more information can be given on that for better understanding.
 
 6. Aesthetics
-The graph is clean and not cluttered. It is looks professional yet plain, so can be made more visually appealing in terms of design.
-Rank: 6/10
+The graph is clean and not cluttered. It is looks professional yet plain, so can be made more visually appealing in terms of design. <br>
+Rank: 6/10 <br>
 Reasoning: The design is functional but lacks strong visual appeal. A more visually engaging color palette or additional design elements could make it more impactful.
 
 7. Engagement
-The chart highlights the key impact of air travel due to COVID-19 which might prompt discussions on related topics like how to recover from this economic situation and the future of the airlines industry.
-Rank: 8/10
+The chart highlights the key impact of air travel due to COVID-19 which might prompt discussions on related topics like how to recover from this economic situation and the future of the airlines industry. <br>
+Rank: 8/10 <br>
 Reasoning: The sharp drop in numbers of passengers mainly during the initial months of the pandemic motivates the target audience to dive in further and consider the broader implications of the data.
 
 Overall Observations:
