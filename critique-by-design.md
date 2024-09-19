@@ -12,7 +12,7 @@ Link to original dataset: https://forms.gle/Mp85L1LSA2otXVjz8
 
 For this project I selected the "US Air Travel Falls Due to Covid Epidemic" visualization and the data source is Bureau of Transportation Statistics. This visualization shows the drastic decline in air travel during the COVID-19 pandemic. My goal here is to critique the original visualization and build a more impactful one which gives a better representation than what it does. I have also documented the feedbacks and the final updated design.
 
-I selected this visualization because it displays an extremely relevant and critical impact on one of the most vital industries today. Of all the industries impacted by the pandemic, air travel was one of the most hit sectors in the global economy and this data shows how it impacted the number of passengers. I also chose this data visualization, because it needs improvements after all. The original one does get the message across, but it needs a lot of context behind the graph. The daily ups and downs make it a little hard to read as a whole not giving a broader pictureand it should have a few important months or specific events pointed out on the graph. So using this would help improve it and get the intended message across. 
+I selected this visualization because it displays an extremely relevant and critical impact on one of the most vital industries today. Of all the industries impacted by the pandemic, air travel was one of the most hit sectors in the global economy and this data shows how it impacted the number of passengers. I also chose this data visualization, because it needs improvements after all. The original one does get the message across, but it needs a lot of context behind the graph. The daily ups and downs make it a little hard to read as a whole not giving a broader picture and it should have a few important months or specific events pointed out on the graph. So using this would help improve it and get the intended message across. 
 
 ## Step two: the critique
 
@@ -25,55 +25,46 @@ Link to original dataset: https://forms.gle/Mp85L1LSA2otXVjz8
 Rank: 9/10  <br>
 Reasoning: This visualization is helpful for those interested in understanding the impact of COVID-19 on air travel. <br>
 
-2. Completeness
-The visualization does not contain more explanations of important external factors like restrictions of travel that may have resulted in these patterns.<br>
+2. Completeness: The visualization does not contain more explanations of important external factors like restrictions of travel that may have resulted in these patterns.<br>
 Rank: 6/10 <br>
 Reasoning: The data shown is clear and easy to understand but adding annotations or some marks in the chart for major dates or events would definitely help improve better understanding for the readers. <br>
 
-3. Perceptibility
-The graph is not cluttered and well-spaced making easy to read and understand with properly marked labels and timeframes. <br>
+3. Perceptibility: The graph is not cluttered and well-spaced making easy to read and understand with properly marked labels and timeframes. <br>
 Rank: 7/10 <br>
 Reasoning: The graph is perceptible and line chart is appropriate for showing trends over time. But some readers may find it slightly difficult to identify the differences between daily variations and the average line without having a closer look.
 
-4. Truthfulness
-The graph correct demonstrates what it claims that is daily travelers passing through TSA checkpoints. The data is trust-worthy without having any incorrect or inaccurate information. <br>
+4. Truthfulness: The graph correct demonstrates what it claims that is daily travelers passing through TSA checkpoints. The data is trust-worthy without having any incorrect or inaccurate information. <br>
 Rank: 10/10 <br>
 Reasoning: The data is represented accurately and it uses a trustable source (TSA) and does not misrepresent the data or make incorrect comparisons.
 
-5. Intuitiveness
-The chart is intuitive and has time series data. The labeling add in more clarity, but the lack of context could make it harder for unfamiliar audiences. <br>
+5. Intuitiveness: The chart is intuitive and has time series data. The labeling adds in more clarity, but the lack of context could make it harder for unfamiliar audiences. <br>
 Rank: 8/10 <br>
 Reasoning: While the graph is  easy to understand, some target groups may not be familiar with the concept of TSA checkpoints or the 7-day average and more information can be given on that for better understanding.
 
-6. Aesthetics
-The graph is clean and not cluttered. It is looks professional yet plain, so can be made more visually appealing in terms of design. <br>
+6. Aesthetics: The graph is clean and not cluttered. It is looks professional yet plain, so can be made more visually appealing in terms of design. <br>
 Rank: 6/10 <br>
 Reasoning: The design is functional but lacks strong visual appeal. A more visually engaging color palette or additional design elements could make it more impactful.
 
-7. Engagement
-The chart highlights the key impact of air travel due to COVID-19 which might prompt discussions on related topics like how to recover from this economic situation and the future of the airlines industry. <br>
+7. Engagement: The chart highlights the key impact of air travel due to COVID-19 which might prompt discussions on related topics like how to recover from this economic situation and the future of the airlines industry. <br>
 Rank: 8/10 <br>
 Reasoning: The sharp drop in numbers of passengers mainly during the initial months of the pandemic motivates the target audience to dive in further and consider the broader implications of the data.
 
-Overall Observations:
-
-The graph effectively shows the impact of COVID-19 on U.S. air travel with the sharp decline in March 2020. The inclusion of the 7-day average line helps in understanding the overall trend. However, it could benefit from a few improvements:
-
+Overall Observations: <br>
 The visualization highlights the sudden decline during the months when COVID-19 occurred making it very impactful to the readers of this chart. Including the 7-day average assists in understanding the overall trend, however it there are few improvements to make it better:
 
-    Adding annotations to highlight key events (e.g. decline due to COVID-19).
-    Enhancing the visual design to be more engaging.
+* Adding annotations to highlight key events (e.g. decline due to COVID-19).
+* Enhancing the visual design to be more engaging.
 
 
 Audience: 
 The general audience is more interested in how COVID-19 has affected travel. This can be public health officials, airline industry or general people of the media. This is the most effective visualization for this audience, though it may need more details for those who are unfamiliar with TSA checkpoint data.
 
 Closing:
-This feedback is helpful as a review of how the visualization was presented but it does not say much about what really can make things effective like adding contextual annotations to the graph. I suggest:
-Shifting from daily data to yearly data, making the chart easier to interpret over a long time-period.
-Adding context like key event markers, government advisories, holiday spikes.
-Simple yet impressive colors to make it more appealing and accessible to colorblind users.
-Facilitate colours more to make the graph sensitive to the major points of highlighting, like the difference between 2020 and other years, which will empower it to retain the viewers' attention.
+This feedback is helpful as a review of how the visualization was presented but it does not say much about what really can make things effective like adding contextual annotations to the graph. I suggest:<br>
+Shifting from daily data to yearly data, making the chart easier to interpret over a long time-period. <br>
+Adding context like key event markers, government advisories, holiday spikes. <br>
+Simple yet impressive colors to make it more appealing and accessible to colorblind users. <br>
+Facilitate colours more to make the graph sensitive to the major points of highlighting, like the difference between 2020 and other years, which will empower it to retain the viewers' attention. <br>
 Add historical context to this graph by adding data from 2000-2020 which shows viewers the magnitude of how big this change has been.
 
 
@@ -116,6 +107,6 @@ Final Solution Overview <br>
 The redesigned visualization shows air passengers in the U.S. annually between the range 2000 to 2020. This more effectively demonstrates the dramatic drop from flight passengers during the COVID-19 pandemic while emphasizing the recommended focus in 2020. This visualization encorporated the suggestions from user feedbacks regarding the preference for aggregate yearly data to major events.
 
 Summary of Process <br>
-1. First Visualization: Presented daily U.S. air travel data in 2020, revealing much detail but noisy.
-2. User Feedback: Indicated a preference for less noisy, yearly aggregate data and notes considering major events.
+1. First Visualization: Presented daily U.S. air travel data in 2020, revealing much detail but noisy since its considering daily variations.
+2. User Feedback: Indicated a preference for less noisy, yearly aggregate data, marking the major event and including a 'year' paramater.
 3. Second Visualization: Removed daily data from visualization and emphasized the aggregate yearly data, simplified colors to a better palette, introduced a 'range slider' to allow users to view different years of interest in the timeline and finally highlighted 2020 and the year being compared which is added as a parameter.
