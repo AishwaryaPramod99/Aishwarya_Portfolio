@@ -19,7 +19,7 @@ Explore how people’s feelings and reactions on social media vary across region
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-![Project Image](Project Part1/pics/Pic1/image.png)
+![Project Image](Project Part1/pics/Pic1/image.jpeg)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
