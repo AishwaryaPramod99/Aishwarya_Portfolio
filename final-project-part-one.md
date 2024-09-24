@@ -21,11 +21,11 @@ Text here...
 
 This dataset here is  “Social Media Sentiments Analysis Dataset” that is available on Kaggle. It consists of posts from social media public forums like Twitter, Instagram, and Facebook as well as tweets and posts that contain associated data such as time stamps, user parameters, type of platform, hashtags, region, and engagement levels, likes, comments, retweets. The dataset is labeled with sentiment categories: that gives information regarding positive, negative, and neutral tweets making it easier to determine the overall public opinion on different topics. The key purpose of applying this dataset is to find out how the public mood shifts or is different at another period or geographical area. This way, the project will show the correlation between different sentiments and engagement metrics as well as uncover any patterns. 
 
-Below is the link to the dataset used in this project:
-Name: Social Media Sentiments Analysis Dataset
-Source: Kaggle
-URL: https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset
-Description: A dataset containing social media posts with sentiment labels and engagement metrics.
+Below is the link to the dataset used in this project: <br>
+Name: Social Media Sentiments Analysis Dataset <br>
+Source: Kaggle <br>
+URL: https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset <br>
+Description: A dataset containing social media posts with sentiment labels and engagement metrics. <br>
 
 
 # Method and medium
