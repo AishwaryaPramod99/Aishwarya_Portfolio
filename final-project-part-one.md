@@ -5,10 +5,16 @@
 
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
-
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+This project will focus on providing an understanding of how senton, public feeling, and response to the various things posted on the social platforms differ with the regions of the world, and how the change with time. Many are now making use of Instagram, Facebook and Twitter and these have so much data from humans which includes engagement metrics such as likes and comments. Many events get a trending and viral turn and here our goal is to map each of these sentiments to each of the engagements. 
+
+The primary goal, therefore, is to monitor the trends and sentiments in the different social media streams. In analyzing various types of content created by the users, it would be easy to understand how emotions progress, understanding the change of sentiments from one region to another and figuring out the cause of such change. This project will also look at the trends between types of sentiment with engagement. The study will determine which emotion has higher tendencies of forging an attachment with the different platforms and their users.
+
+Importance 
+Opinions from these social media platforms are important towards determining the opinion of the public. This information is especially beneficial for businesses, investors, the government and others who may be looking forward to knowing how specific individuals feel in relation to some topic. This will not only give a trend of sentiment, but also the kind of knowledge that can be used to influence public feeling. 
+Problem Statement:
+Explore how people’s feelings and reactions on social media vary across regions and change over time, uncovering trends and the factors that drive public engagement.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
