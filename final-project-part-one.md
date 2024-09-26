@@ -9,16 +9,17 @@ Through this project I propose to illustrate how different sectors of the econom
 1. The COVID-19 pandemic led to a lot of downfalls to all the businesses globally such as travel, retails and local businesses which led to them facing unexpected economic shocks. Lockdowns and social distancing protocols resulted in sudden drop in revenue and major layoffs. Here I aim to depict key events that created a huge impact which forced all these businesses to adapt to the gradual changes.
 
 2. The Downturn for Businesses
-Businesses has to immediately close down, their sales plummeted, and they also faced a lot of obstacles which affected them to operate efficiently. Retailers had no customers; airlines had no travelers and small businesses too faced a lot of financial crises.
+Businesses has to immediately close down, their sales plummeted, and they also faced a lot of obstacles which affected them to operate efficiently. Retailers had no customers; airlines had no travelers and small businesses too faced a lot of financial crises. Here I plan to add visualizations demonstrating year-over-year comparisons for sales and employment will show just how significantly these sectors were impacted.
 
 3. Adapting to the Change:
-While the pandemic continued businesses tried their best to survive this situation. A lot of alternate solutions came up especially a lot of digital transformations like more online ordering, work from home and meeting customer needs through contactless services. Government launched a lot of support program to help and provided financial aid for those were suffering significantly.
+While the pandemic continued businesses tried their best to survive this situation. A lot of alternate solutions came up, especially a lot of digital transformations like more online ordering, work from home and meeting customer needs through contactless services. The government launched a lot of support programs to help and provided financial aid for those who were suffering significantly. For this section I plan to add visual comparisons of pre-pandemic and post-pandemic revenue trends to illustrate how businesses found new ways to generate income. 
+
 
 4. Case Studies:
-To overcome this and move on businesses tried to come up with other ways to improve their business. For instance retail stores started to invest a lot in delivering their products to the customers, airlines introduced safety protocols and restaurants too mostly focused on delivery to maintain their operations.
+To overcome this and move on businesses tried to come up with other ways to improve their business. For instance, retail stores started to invest a lot in delivering their products to the customers, airlines introduced safety protocols and restaurants too mostly focused on delivery to maintain their operations. Adding visuals like infographics and sector specific recovery maps will demonstrate how different businesses flourished.
 
 5. Conclusion:
-The pandemic did cause issues to many who had their businesses at small and large scale. But some of them which utilized the new technologies and quickly adapted to the change were better positioned to navigate their way. The lesson learned from here is that world is very unpredictable, and it is important to be prepared for any future disruptions.
+The pandemic did cause issues for many who had their businesses at small and large scale. But some of them which utilized the new technologies and quickly adapted to the change were better positioned to navigate their way. The lesson learned from here is that the world is very unpredictable, and it is important to be prepared for any future disruptions.
 
 The target audience for this project are businessmen, entrepreneurs, investors and market analyst who seek to understand and find a solution to overcome these challenges and find a solution to rise back up. They draw insights from the adopting these strategies like learning how digital transformation. Exploring multiple business recovery processes is critical for these audiences as the insights gained from this analysis can guide future business strategies to be better prepared when such crisis occurs in the future.
 
