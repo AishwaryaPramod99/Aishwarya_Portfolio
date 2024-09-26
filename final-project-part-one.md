@@ -62,8 +62,8 @@ Below is the link to the data sources: <br>
 
 Name: COVID-19 Impact on Small Businesses <br>
 Source: Kaggle <br>
-URL: https://www.kaggle.com/datasets/koryto/covid19-in-small-us-businesses <br>
-Description: This dataset has data on how small local business faced a lot of crisis and their recovery efforts. <br>
+URL: https://www.kaggle.com/datasets/shashwatwork/impact-of-covid19-pandemic-on-the-global-economy <br>
+Description: This dataset has data on how economy faced a lot of crisis and their recovery efforts. <br>
 
 Name: Impact of COVID-19 on Retail Sales <br>
 Source: Kaggle <br>
