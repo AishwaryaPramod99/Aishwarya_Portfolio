@@ -20,7 +20,7 @@ Businesses has to immediately close down, their sales plummeted and they also fa
 3. Adapting to the Change:
 While the pandemic continued, businesses tried their best to survive this situation. A lot of alternative solutions came up, especially a lot of digital transformations like online ordering increased, work from home and meeting customer needs through contactless services also became really common. The government launched a lot of support programs to help and provid financial aid for those who were suffering significantly. For this section I plan to add visual comparisons of pre-pandemic and post-pandemic revenue trends to illustrate how businesses found new ways to generate income. 
 
-4. Case Studies:
+4. Strategic Shifts in Business Operations:
 To overcome this and move on businesses tried to come up with other ways to improve and make profits. For instance, retail stores started to invest a lot in delivering their products to the customers, airlines introduced safety protocols and restaurants too mostly focused on delivery to maintain their operations. Adding visuals like infographics and sector specific recovery maps will demonstrate how different businesses flourished.
 
 5. Conclusion:
