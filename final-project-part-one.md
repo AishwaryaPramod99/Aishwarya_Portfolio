@@ -35,10 +35,12 @@ This bar chart compares pre-pandemic (blue) and pandemic (red) levels of revenue
 <br>
 <br>
 <br>
+<br>
 
 ### Covid's Impact on Business (Months)
 This line graph shows the improvement of COVID-19’s impact on businesses from January to May 2020, illustrating the steep decline followed by a gradual recovery.<br>
 ![Covid's Impact on Business (Months)](./Project%20Part1/pics/P1%20Sketch2.jpeg)
+<br>
 <br>
 <br>
 <br>
@@ -49,8 +51,9 @@ This line graph compares retail sales and employment from 2019 to 2022, showing 
 <br>
 <br>
 <br>
+<br>
 
-# The data
+# The Data
 I have listed the datasets available on Kaggle which I will be using to show how businesses were impacted by COVID-19 and also to highlight their recovery with time.
 
 Below is the link to the data sources: <br>
