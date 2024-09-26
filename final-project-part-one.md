@@ -31,12 +31,18 @@ The target audience for this project are businessmen, entrepreneurs, investors a
 
 ### Revenue and Employment Decline
 ![Revenue and Employment Decline](./Project%20Part1/pics/P1%20Sketch1.jpeg)
+<br>
+<br>
 
 ### Covid's Impact on Business (Months)
 ![Covid's Impact on Business (Months)](./Project%20Part1/pics/P1%20Sketch2.jpeg)
+<br>
+<br>
 
 ### Year over year comparison: Retail
 ![Year over year comparison](./Project%20Part1/pics/P1%20Sketch3.jpeg)
+<br>
+<br>
 
 # The data
 I have listed the datasets available on Kaggle which I will be using to show how businesses were impacted by COVID-19 and also to highlight their recovery with time.
