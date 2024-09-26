@@ -6,6 +6,8 @@ The Covid-19 attack affected world economies a great deal as many establishments
 
 Through this project I propose to illustrate how different sectors of the economy were affected by the pandemic and how later economic resilience strategies were built. In my visual displays, I will show trends in revenue, recovery, and the impact of the economy on business to highlight how all aspects of data aided business recovery.
 
+![COVID on Economy](./Project%20Part1/pics/P1%20Sketch.jpeg)
+
 ## Project Structure
 
 1. The COVID-19 pandemic led to a lot of downfalls to all the businesses globally such as travel, retails and local businesses which led to them facing unexpected economic shocks. Lockdowns and social distancing protocols resulted in sudden drop in revenue and major layoffs. Here my aim is to depict the key events that created a huge impact which forced all these businesses to adapt to the gradual changes.
