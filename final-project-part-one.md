@@ -1,11 +1,13 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# Outline 
+
 The Covid-19 attack affected world economies a great deal as many establishments remained closed, there were drops in revenue, and operations were disrupted. The essence of my project is to look at specific sectors which include retail, travel and small businesses, and how they were impacted during the Covid-19 pandemic economic crisis and how they recovered. It will seek to demonstrate how these businesses have coped through digital transformation, governmental assistance, and the use of information. This project will then compare the data collected from the earliest outbreak of COVID-19 to the current one in order to achieve a full recovery and depict the COVID-19 effects on business in the long run.
 
 Through this project I propose to illustrate how different sectors of the economy were affected by the pandemic and how later economic resilience strategies were built. In my visual displays, I will show trends in revenue, recovery, and the impact of the economy on business to highlight how all aspects of data aided business recovery.
 
+## Project Structure
 
-# Outline 
 1. The COVID-19 pandemic led to a lot of downfalls to all the businesses globally such as travel, retails and local businesses which led to them facing unexpected economic shocks. Lockdowns and social distancing protocols resulted in sudden drop in revenue and major layoffs. Here I aim to depict key events that created a huge impact which forced all these businesses to adapt to the gradual changes.
 
 2. The Downturn for Businesses
@@ -13,7 +15,6 @@ Businesses has to immediately close down, their sales plummeted, and they also f
 
 3. Adapting to the Change:
 While the pandemic continued businesses tried their best to survive this situation. A lot of alternate solutions came up, especially a lot of digital transformations like more online ordering, work from home and meeting customer needs through contactless services. The government launched a lot of support programs to help and provided financial aid for those who were suffering significantly. For this section I plan to add visual comparisons of pre-pandemic and post-pandemic revenue trends to illustrate how businesses found new ways to generate income. 
-
 
 4. Case Studies:
 To overcome this and move on businesses tried to come up with other ways to improve their business. For instance, retail stores started to invest a lot in delivering their products to the customers, airlines introduced safety protocols and restaurants too mostly focused on delivery to maintain their operations. Adding visuals like infographics and sector specific recovery maps will demonstrate how different businesses flourished.
