@@ -60,20 +60,23 @@ I have listed the datasets available on Kaggle which I will be using to show how
 
 Below is the link to the data sources: <br>
 
+### Dataset 1
 Name: Impact of Covid-19 Pandemic on the Global Economy <br>
 Source: Kaggle <br>
 URL: https://www.kaggle.com/datasets/shashwatwork/impact-of-covid19-pandemic-on-the-global-economy <br>
-Description: This dataset has data on how economy faced a lot of crisis and their recovery efforts. <br>
+Description: This dataset has data on how economy faced a lot of crisis and their recovery efforts. <br><br>
 
+### Dataset 2
 Name: COVID-19 Airline Flight Delays and Cancellations<br>
 Source: Kaggle <br>
 URL: https://www.kaggle.com/datasets/akulbahl/covid19-airline-flight-delays-and-cancellations <br>
-Description: This dataset seek to visualize the impact that the virus has had on the domestic United States airline industry through detailed flight delay and cancellation data. <br>
+Description: This dataset seek to visualize the impact that the virus has had on the domestic United States airline industry through detailed flight delay and cancellation data. <br><br>
 
+### Dataset 3
 Name: Restaurants Sales During COVID<br>
 Source: Kaggle <br>
 URL: https://www.kaggle.com/code/ahmedterry/restaurants-sales-during-covid-eda <br>
-Description: This dataset focuses on how the restaurants behave during Covid-19, how the sales changed and how it's affecting the future of restaurants industry.<br>
+Description: This dataset focuses on how the restaurants behave during Covid-19, how the sales changed and how it's affecting the future of restaurants industry.<br><br>
 
 # Method and Medium
 Method: The proposed project will use multiple elements of data visualization in Tableau to explore and communicate various insights of pandemic's impact on businesses and their recovery paths. The data will be visualized to develop engaging and interactive visuals to effectively communicate the story to the audience. Tableau provides the ability to create dashboards which are dynamic in nature, giving the audience an opportunity to see the data trends guests in a real-world style setting to enhance accessibility for data analysis. I beleive this tool is an ideal approach for visualizing business impacts and patterns of recovery and would provide the audience to facilitate active engagement with data observation.
