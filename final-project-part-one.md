@@ -28,11 +28,11 @@ The target audience for this project are businessmen, entrepreneurs, investors a
 
 ## Initial sketches
 
-![Revenue and Employment Decline](./Project%20Part1/pics/P1%20Sketch1.png)
+![Revenue and Employment Decline](./Project%20Part1/pics/P1%20Sketch1.jpeg)
 
-![Covid's Impact on Business (Months)](./Project%20Part1/pics/P1%20Sketch2.png)
+![Covid's Impact on Business (Months)](./Project%20Part1/pics/P1%20Sketch2.jpeg)
 
-![Year over year comparison](./Project%20Part1/pics/P1%20Sketch3.png)
+![Year over year comparison](./Project%20Part1/pics/P1%20Sketch3.jpeg)
 
 # The data
 I have listed the datasets available on Kaggle which I will be using to show how businesses were impacted by COVID and also to highlight their recovery with time.
@@ -40,17 +40,17 @@ I have listed the datasets available on Kaggle which I will be using to show how
 Below is the link to the dataset used in this project: <br>
 Name: COVID-19 Impact on Small Businesses <br>
 Source: Kaggle <br>
-URL: https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset <br>
+URL: https://www.kaggle.com/datasets/koryto/covid19-in-small-us-businesses <br>
 Description: This dataset has data on how small local business faced a lot of crisis and their recovery efforts. <br>
 
 Name: Impact of COVID-19 on Retail Sales <br>
 Source: Kaggle <br>
-URL: https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset <br>
+URL: https://www.kaggle.com/datasets/sumanthvrao/covid19-effect-on-sales-of-retail-goods <br>
 Description: This consists of retail sales data during pandemic and future recovery trends. <br>
 
 Name: Global Consumer Spending Trends <br>
 Source: Kaggle <br>
-URL: https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset <br>
+URL: https://www.kaggle.com/datasets/theguru/covid19-consumer-spending <br>
 Description: This dataset focuses on how consumers spend during the pandemic to get insights of the shifts in demand and recovery. <br>
 
 # Method and medium
