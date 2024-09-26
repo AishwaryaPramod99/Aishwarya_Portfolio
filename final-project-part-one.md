@@ -10,6 +10,8 @@ Through this project I propose to illustrate how different sectors of the econom
 
 ## Project Structure
 
+In order to thoroughly examine the effects faced, the project will be divided into a number of important sections, oriented towards different parts of the business journey during the pandemic. 
+
 1. The COVID-19 pandemic led to a lot of downfalls to all the businesses globally such as travel, retails and local businesses which led to them facing unexpected economic shocks. Lockdowns and social distancing protocols resulted in sudden drop in revenue and major layoffs. Here my aim is to depict the key events that created a huge impact which forced all these businesses to adapt to the gradual changes.
 
 2. The Downturn for Businesses
@@ -22,7 +24,7 @@ While the pandemic continued, businesses tried their best to survive this situat
 To overcome this and move on businesses tried to come up with other ways to improve and make profits. For instance, retail stores started to invest a lot in delivering their products to the customers, airlines introduced safety protocols and restaurants too mostly focused on delivery to maintain their operations. Adding visuals like infographics and sector specific recovery maps will demonstrate how different businesses flourished.
 
 5. Conclusion:
-The pandemic did cause issues for many who had their businesses at small and large scales. But some of them which utilized the new technologies and quickly adapted to the change were better positioned to navigate their way. The lesson learned from here is that the world is very unpredictable, and it is important to be prepared for any future disruptions.
+Reflecting across the journey from crises to recovery, it is clear the importance of digital technology and innovation to overcoming the obstacles met during the pandemic. This did cause issues for many who had their businesses at small and large scales. But some of them which utilized the new technologies and quickly adapted to the change were better positioned to navigate their way. The lesson learned from here is that the world is very unpredictable, and it is important to be prepared for any future disruptions.
 
 The target audience for this project are businessmen, entrepreneurs, investors and market analysts who seek to understand and find a solution to overcome these challenges and find a solution to rise back up in the market. They draw insights from adopting these strategies like learning how digital transformation works and exploring multiple business recovery processes which are critical for these audiences as the insights gained from this analysis can guide future business strategies. This will be helpful for them to be better prepared when such crisis occurs in the future.
 
