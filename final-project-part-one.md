@@ -30,17 +30,23 @@ The target audience for this project are businessmen, entrepreneurs, investors a
 ## Initial sketches
 
 ### Revenue and Employment Decline
+This bar chart compares pre-pandemic (blue) and pandemic (red) levels of revenue and employment in Retail, Travel, and Small Businesses, highlighting the significant decline caused by COVID-19.<br>
 ![Revenue and Employment Decline](./Project%20Part1/pics/P1%20Sketch1.jpeg)
+<br>
 <br>
 <br>
 
 ### Covid's Impact on Business (Months)
+This line graph shows the improvement of COVID-19’s impact on businesses from January to May 2020, illustrating the steep decline followed by a gradual recovery.<br>
 ![Covid's Impact on Business (Months)](./Project%20Part1/pics/P1%20Sketch2.jpeg)
+<br>
 <br>
 <br>
 
 ### Year over year comparison: Retail
+This line graph compares retail sales and employment from 2019 to 2022, showing the sharp decline in 2020 due to COVID-19 and the gradual recovery in the following years.<br>
 ![Year over year comparison](./Project%20Part1/pics/P1%20Sketch3.jpeg)
+<br>
 <br>
 <br>
 
