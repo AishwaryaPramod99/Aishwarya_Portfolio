@@ -9,7 +9,7 @@ https://preview.shorthand.com/Dss0kCGjXnvMnDps/responsive/desktop
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 The target audience who I aim to focus are the passengers who travel and use the flights frequently, the airlines industry itself cause they were the ones who got affected the most and finally the policy makers who are interested in knowing how COVID-19 impacted this industry and its recovery process from this major hit.
 
-For my interview, I reached out to my friend who loves to travel like me and general audience.
+For my interview, I reached out to my friend who loves to travel like me and the general audience.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -23,7 +23,6 @@ The main goals from my research are:
 | Clarity of Visualizations     | Are the charts easy to follow and how are my color choices? |
 | Engagement of Narrative     | Are you able to follow the data journey throughout?|
 | Actionable Insights     | Does the conclusion show the importance of the future actions need to be taken for the airline industry? |
-
 
 
 ## Interview findings
@@ -46,11 +45,8 @@ The main goals from my research are:
 | The personal story kept the readers interested but one participant found 2 technical terms. | Simplify the technical terms to make it clear for general audience. |
 | One participant suggested it would be better to explain the recovery graph more clearly.| Add few more sentences under the recovery graph and tie it to the story to make it more clear. |
 
-> ...include any final thoughts you have here.
->
-The feedback from the interviews has been very valuable in shaping and improving my overall project structure. It highlighted the areas where clarity can be made better not only for industry experts or frequent travelers but also for the general audience. For Part III I plan to incorporate all the suggestions and feedback which will definitely create more impact to my story. I am excited to see how my story has develop and will further improve with the changes as I moved forward to the last stages of my project.
 
-Text here!
+The feedback from the interviews has been very valuable in shaping and improving my overall project structure. It highlighted the areas where clarity can be made better not only for industry experts or frequent travelers but also for the general audience. For Part III I plan to incorporate all the suggestions and feedback which will definitely create more impact to my story. I am excited to see how my story has develop and will further improve with the changes as I moved forward to the last stages of my project.
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
