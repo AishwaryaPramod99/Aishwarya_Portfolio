@@ -6,13 +6,11 @@ https://preview.shorthand.com/Dss0kCGjXnvMnDps/responsive/desktop
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 The target audience who I aim to focus are the passengers who travel and use the flights frequently, the airlines industry itself cause they were the ones who got affected the most and finally the policy makers who are interested in knowing how COVID-19 impacted this industry and its recovery process from this major hit.
 
 For my interview, I reached out to my friend who loves to travel like me and the general audience.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 The main goals from my research are:
     Know the clarity of my visualization: Were the charts easy to understand and follow?
     Engagement of the narrative: Does my personal experience and the data used relate with the user and keep them engaged?
@@ -26,7 +24,6 @@ The main goals from my research are:
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -36,7 +33,6 @@ The main goals from my research are:
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
