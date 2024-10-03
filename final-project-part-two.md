@@ -1,57 +1,54 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+https://preview.shorthand.com/Dss0kCGjXnvMnDps/responsive/desktop
 
 # User research 
 
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+The target audience who I aim to focus are the passengers who travel and use the flights frequently, the airlines industry itself cause they were the ones who got affected the most and finally the policy makers who are interested in knowing how COVID-19 impacted this industry and its recovery process from this major hit.
 
-Text here!
+For my interview, I reached out to my friend who loves to travel like me and general audience.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+The main goals from my research are:
+    Know the clarity of my visualization: Were the charts easy to understand and follow?
+    Engagement of the narrative: Does my personal experience and the data used relate with the user and keep them engaged?
+    Actionable insights: Does the call to action feel show the impact and make it convincing?
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Clarity of Visualizations     | Are the charts easy to follow and how are my color choices? |
+| Engagement of Narrative     | Are you able to follow the data journey throughout?|
+| Actionable Insights     | Does the conclusion show the importance of the future actions need to be taken for the airline industry? |
 
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Clarity of Visualizations | I really liked the airline-specific chart and how it shows the impact on each. | The flight delays graph looks interesting but would be better if the lines are a bit thinner. | I understood all the map was a little overwhelming.             |
+| Engagement of Narrative  |  The personal story in the beginning caught my attention as I was totally able to relate to that. | The entire use of various data to create charts and focus not only on the passenger count but also the delays makes it effective. |  The story kept me reading but I saw 2-3 technical terms which was unclear. |
+| Actionable Insights | The call to action is great looks good to me. | I felt the recovery tips were good, but it can be explain the graph better. | The recommendations for crisis management are on point.|
 
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| I found that everyone found the visualizations clear but the thickness of the lines for the delay graph can be reduced. | Reduce the thickness of the delay graph to make it more impactful. |
+| One of my interviewee found the map visualization was a little overwhelming. |  For this I plan to reduce the number of data points and focus only on the key ones and provide tooltips. |
+| The personal story kept the readers interested but one participant found 2 technical terms. | Simplify the technical terms to make it clear for general audience. |
+| One participant suggested it would be better to explain the recovery graph more clearly.| Add few more sentences under the recovery graph and tie it to the story to make it more clear. |
 
-> ...include any final thoughts you have here. 
+> ...include any final thoughts you have here.
+>
+The feedback from the interviews has been very valuable in shaping and improving my overall project structure. It highlighted the areas where clarity can be made better not only for industry experts or frequent travelers but also for the general audience. For Part III I plan to incorporate all the suggestions and feedback which will definitely create more impact to my story. I am excited to see how my story has develop and will further improve with the changes as I moved forward to the last stages of my project.
 
 Text here!
 
