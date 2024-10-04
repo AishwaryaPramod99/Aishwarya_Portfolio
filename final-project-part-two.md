@@ -6,15 +6,15 @@ https://preview.shorthand.com/Dss0kCGjXnvMnDps/responsive/desktop
 # User research 
 
 ## Target audience
-The target audience who I aim to focus are the passengers who travel and use the flights frequently, the airlines industry itself cause they were the ones who got affected the most and finally the policy makers who are interested in knowing how COVID-19 impacted this industry and its recovery process from this major hit.
+The target audience who I aim to focus are the passengers who travel and use the flights frequently, the airlines industry itself cause they were the ones who got affected the most and finally the policy makers who are interested in knowing how COVID-19 impacted this industry and its recovery process from this major hit. <br>
 
 For my interview, I reached out to my friend who loves to travel like me and the general audience.
 
 ## Interview script
-The main goals from my research are:
-    Know the clarity of my visualization: Were the charts easy to understand and follow?
-    Engagement of the narrative: Does my personal experience and the data used relate with the user and keep them engaged?
-    Actionable insights: Does the call to action feel show the impact and make it convincing?
+The main goals from my research are: <br>
+    Know the clarity of my visualization: Were the charts easy to understand and follow? <br>
+    Engagement of the narrative: Does my personal experience and the data used relate with the user and keep them engaged? <br>
+    Actionable insights: Does the call to action feel show the impact and make it convincing? <br>
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -27,8 +27,8 @@ The main goals from my research are:
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Clarity of Visualizations | I really liked the airline-specific chart and how it shows the impact on each. | The flight delays graph looks interesting but would be better if the lines are a bit thinner. | I understood all the map was a little overwhelming.             |
-| Engagement of Narrative  |  The personal story in the beginning caught my attention as I was totally able to relate to that. | The entire use of various data to create charts and focus not only on the passenger count but also the delays makes it effective. |  The story kept me reading but I saw 2-3 technical terms which was unclear. |
+| Clarity of Visualizations | I really liked the airline-specific chart and how it shows the impact on each. | The flight delay graph looks interesting but would be better if the lines are a bit thinner. | I understood all graphs but the map was a little overwhelming.             |
+| Engagement of Narrative  |  The personal story in the beginning caught my attention as I was totally able to relate to that. | The entire use of various data to create charts and not only focus on the passenger count but also the delays makes it effective. |  The story kept me reading but I saw 2-3 technical terms which was unclear. |
 | Actionable Insights | The call to action is great looks good to me. | I felt the recovery tips were good, but it can be explain the graph better. | The recommendations for crisis management are on point.|
 
 
