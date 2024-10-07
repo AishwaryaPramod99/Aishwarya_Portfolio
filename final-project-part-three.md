@@ -3,20 +3,29 @@
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+https://preview.shorthand.com/Dss0kCGjXnvMnDps/responsive/desktop
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+Clarity in Visualization - I have changed the thickness of they Operational Challenges: Flight delays graph and made the lines thinner. This helps to clearly distinguish between the three different airlines represented by each of the colors.
+
+Simplified Map - Another participant had found the map too overwhelming so I reduced some of the data points on the graph for better readability and highlighted the airports that were affected the most.
+
+Shorthand Modification - I made some navigational changes in shorthand for easier flow between the different sections to create a story.
+
+Conclusion and References - Conclusion looked okay so I made a few tweaks to align it better to the story. Initial I had a few references, now I added multiple sources like Bureau of Transportation Statistics.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+>
+The primary 
 
-Text here!
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.
+>
+> Include any other information that helps round out your data story. 
 
 Text here!
 
