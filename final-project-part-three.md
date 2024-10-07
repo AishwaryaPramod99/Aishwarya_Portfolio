@@ -23,13 +23,13 @@ After creating multiple visualization for this topic the feeedbacks from part 2 
 
 For my first visualization I created a plot that highlighted the impact on a daily basis but that seemed to cluttered so I went with exploring the impact over time in months and years. This gave more clarity as to see how it affected from a high level rather than daily change. From this it was evident that there was a steep decline in 2020 from the previous years and this might not be so interpretable from the daily chart.
 
-Finally I incorporated all the feedbacks that I received from every phase every phase and all the in-class critique sessions like:
- Adding better visual clarity for the trend line graph by reducing the thickness of the line.
- Making all the colors consistent and also color-blind friendly.
- Tying in a personal story to keep the narrative engaging for the audience.
- Focusing on a researching the actual story behind the airlines industry rather than all businesses.
- Including time-series graphs to show the impact over time.
- Keeping only the data points on the graph and removing the other to avoid any confusion for the readers.
+Finally I incorporated all the feedbacks that I received from every phase every phase and all the in-class critique sessions like:<br>
+ Adding better visual clarity for the trend line graph by reducing the thickness of the line. <br>
+ Making all the colors consistent and also color-blind friendly. <br>
+ Tying in a personal story to keep the narrative engaging for the audience. <br>
+ Focusing on a researching the actual story behind the airlines industry rather than all businesses. <br>
+ Including time-series graphs to show the impact over time. <br>
+ Keeping only the data points on the graph and removing the other to avoid any confusion for the readers. <br>
 
 Text here!
 
