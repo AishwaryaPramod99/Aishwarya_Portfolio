@@ -14,12 +14,12 @@ Simplified Map - Another participant had found the map too overwhelming so I red
 
 Shorthand Modification - I made some navigational changes in shorthand for easier flow between the different sections to create a story.
 
-Conclusion and References - Conclusion looked okay so I made a few tweaks to align it better to the story. Initial I had a few references, now I added multiple sources like Bureau of Transportation Statistics.
+Conclusion and References - Conclusion needed some improvements so I made a few tweaks to align it better to the story. Initially I had a few references, now I added multiple sources like Bureau of Transportation Statistics and Kaggle.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 >
-The primary 
+> For this project the target audience is the airlines industry professionals as well as policymakers whose focused on creating future resilient strategies in case such crisis occurs again.
 
 
 ## Final design decisions
