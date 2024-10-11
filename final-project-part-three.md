@@ -1,7 +1,7 @@
 | [home page](https://aishwaryapramod99.github.io/Aishwarya_Portfolio/) |  [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-https://preview.shorthand.com/Dss0kCGjXnvMnDps/responsive/desktop
+https://carnegiemellon.shorthandstories.com/covid-airlines-impact/index.html
 
 # Changes made since Part II
 Clarity of Visualization- I changed the thickness of the lines in the Operational Challenges: Flight delays graph and made the lines thinner. This helps to clearly distinguish between the three different airlines represented by each of the colors.
